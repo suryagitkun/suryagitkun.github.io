@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Suryablog - Life Journal as a Noob People</title>
+    <link>https://suryadhi.web.id/tags/linux/</link>
+    <description>Recent content in linux on Suryablog - Life Journal as a Noob People</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 04:25:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://suryadhi.web.id/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NgeShare - Cara Memasang MacOS Theme di Xubuntu 18.04</title>
+      <link>https://suryadhi.web.id/artikel/macosthemexubuntu/</link>
+      <pubDate>Sun, 23 Jun 2019 04:25:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/macosthemexubuntu/</guid>
+      <description>Yosh! Pada kesempatan kali ini, saya akan membagikan tutorial mengenai cara memasang MacOS Theme di Xubuntu 18.04. So, bagi kamu yang saat ini sedang menggunakan OS Xubuntu 18.04 dan mungkin memiliki keinginan untuk membuat tampilannya mirip seperti MacOs, dapat menyimak tutorial berikut ini. Cara Memasang MacOS Theme di Xubuntu 18.04 
+1. Langkah pertama, kamu unduh file MacOS Theme terlebih dahulu melalui laman www.xfce-look.org/p/1013714/. Di laman tersebut, kamu plih file MacOS Theme yang sesuai dengan keinginanmu.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Update WPS Office 2019</title>
+      <link>https://suryadhi.web.id/artikel/updatewpsoffice2019/</link>
+      <pubDate>Fri, 26 Apr 2019 14:51:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/updatewpsoffice2019/</guid>
+      <description>Beberapa waktu yang lalu saya mendapat notifikasi dari WPS Office tentang update baru dari aplikasinya. Yah, mumpung paketan internet sedang memadai, saya akhirnya memutuskan untuk mengunduh update terbaru dari aplikasi tersebut. Alhasil, WPS Office yang sebelumnya terpasang di Lubuntu saya, yaitu versi 10.1.0.6758 (tahun 2016) telah berganti menjadi versi 11.1.0.8392 (tahun 2019). Dari update baru ini, saya melihat adanya beberapa perubahan maupun perbaikan, yang pertama jelas sangat mencolok perubahannya adalah pada tampilan atau skin barunya yang menurut saya lebih smooth dari versi sebelumnya, kemudian adanya menu “Special Features” yang memungkinkan pengguna untuk mengubah ekstensi dokumennya menjadi ekstensi pdf, telah support dengan gambar berekstensi SVG, adanya perbaikan bug pada cloud dokumen, SmartArt yang telah didukung dengan 97 jenis penyisipan dan pengeditan gambar, dan masih banyak lagi (selengkapnya bisa kamu lihat di sini).</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Membuat Proyek PHP Sederhana Menggunakan Composer di Linux</title>
+      <link>https://suryadhi.web.id/artikel/phpcomposer/</link>
+      <pubDate>Thu, 07 Mar 2019 08:18:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/phpcomposer/</guid>
+      <description>Yosh! Pada kesempatan kali ini, saya akan membagikan tutorial mengenai cara membuat proyek php sederhana menggunakan composer di linux. Tanpa perlu banyak basa-basi lagi, mari simak tutorialnya di bawah ini.
+Alat
+Oh, iya, sebelum memulai langkah-langkah dalam tutorial ini, ada beberapa alat yang harus dipersiapkan. Adapun alat-alat itu antara lain:
+1. PC/ Laptop
+2. OS Linux
+3. Terminal
+4. Software Composer
+Kalau misalkan kamu belum memiliki software composer di OS Linuxmu, kamu dapat menginstallnya terlebih dahulu dengan menjalankan perintah di bawah ini pada terminal:</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Menggunakan Perintah Unzip di Linux</title>
+      <link>https://suryadhi.web.id/artikel/unziplinux/</link>
+      <pubDate>Sat, 08 Dec 2018 20:24:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/unziplinux/</guid>
+      <description>Setelah sebelumnya saya membagikan tutorial mengenai cara menggunakan perintah “zip” di Linux, pada kesempatan kali ini, saya akan membagikan tutorial mengenai cara menggunakan perintah “unzip” di Linux. Seperti pada tutorial sebelumnya, tutorial kali ini masih berkaitan dengan kode-kode perintah yang harus dijalankan pada terminal. Oke, tanpa perlu panjang lebar, mari simak tutorialnya berikut ini:
+Mengekstrak (Unzip) File/ Folder.zip
+Perintah dasar yang dapat digunakan di terminal untuk mengekstrak file/ folder berekstensi “.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Menggunakan Perintah Zip di Linux</title>
+      <link>https://suryadhi.web.id/artikel/ziplinux/</link>
+      <pubDate>Tue, 04 Dec 2018 06:45:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/ziplinux/</guid>
+      <description>Yosh, pada kesempatan kali ini, saya akan membagikan tutorial mengenai sebuah perintah di Linux. Perintah ini adalah &#34;zip&#34; yang memiliki fungsi untuk memaketkan atau meng-kompres sebuah/ beberapa file menjadi arsip file/ folder berekstensi .zip seperti contoh di bawah ini:
+
+Ya, meskipun saat ini telah ada cara yang lebih mudah untuk meng-kompres file menjadi arsip file/ folder .zip di Linux, yaitu dengan cara klik kanan seperti di bawah ini:</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Copy Paste ke File System di Lubuntu 18.04</title>
+      <link>https://suryadhi.web.id/artikel/copypastelubuntu/</link>
+      <pubDate>Sun, 07 Oct 2018 18:30:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/copypastelubuntu/</guid>
+      <description>Ketika sedang menggunakan sistem operasi Linux Lubuntu 18.04, apakah kamu pernah mencoba melakukan tindakan seperti pada tampilan di bawah ini?
+
+
+
+Jika iya, maka wajar saja bila hal tersebut tidak dapat dilakukan karena pemindahan file pada direktori ‘File System’ memerlukan akses ‘root’ atau dikenal juga dengan istilah ‘superuser’. Terkait dengan hal ini, pada kesempatan kali ini saya akan membagikan tips agar kamu dapat melakukan tindakan tersebut pada direktori &#39;File System&#39;.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - 10 Perintah Dasar Linux Untuk Pemula</title>
+      <link>https://suryadhi.web.id/artikel/perintahdasarlinux/</link>
+      <pubDate>Sat, 29 Sep 2018 11:59:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/perintahdasarlinux/</guid>
+      <description>Apakah saat ini kamu memakai OS Linux dan sedang belajar menggunakannya? Mungkin artikel ini dapat menjadi salah satu referensimu dalam belajar menggunakan OS tersebut. Nah, pada artikel ini, saya akan membagikan 10 perintah dasar dalam OS Linux yang dapat dicoba atau digunakan oleh para pengguna Linux pemula. Oh, iya, 10 perintah dasar ini digunakan pada ‘Terminal’, ya. Oke, langsung simak berikut ini.
+1. pwd, digunakan untuk menampilkan/ mengetahui di direktori mana user sedang berada.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Mengenkripsi USB Drive di Lubuntu 18.04</title>
+      <link>https://suryadhi.web.id/artikel/usbdrivelubuntu/</link>
+      <pubDate>Sat, 22 Sep 2018 12:35:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/usbdrivelubuntu/</guid>
+      <description>Apakah kalian pernah mendengar istilah &#39;enkripsi&#39;? Mungkin beberapa dari kalian telah mengetahui arti dari istilah tersebut. &#39;Mengamankan&#39;, yaps, enkripsi dapat dikatakan sebagai istilah kata yang memiliki arti, yaitu mengamankan data menggunakan kode-kode atau sandi tertentu. Istilah ini sangat populer digunakan di dunia teknologi, apalagi sejak maraknya sosial media, karena sebagian besar sosial media menggunakan sistem enkripsi pada fitur chatting mereka. Hal itu dilakukan agar data pengguna dapat terlindungi dan hanya dapat diakses oleh pengguna tersebut saja.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Melihat History Command di Linux</title>
+      <link>https://suryadhi.web.id/artikel/historycommandlinux/</link>
+      <pubDate>Sat, 15 Sep 2018 21:09:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/historycommandlinux/</guid>
+      <description>Pada postingan kali ini, saya akan memberikan tips atau solusi kepada agan &#34;pengguna Linux&#34; untuk dapat melihat history command atau perintah-perintah yang telah agan jalankan di terminal selama memakai OS Linux milik agan. Tips berikut ini dapat membantu agan untuk melihat atau mengingat mantan kembali perintah-perintah tersebut. Selain itu, melalui tips ini nantinya agan dapat lebih menghemat waktu dalam mengerjakan atau menjalankan perintah pada OS Linux agan. Oh, iya, sebelumnya, tips ini telah saya coba di OS Linux Lubuntu 18.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Restore Default Lubuntu Panel</title>
+      <link>https://suryadhi.web.id/artikel/restoredefaultlubuntupanel/</link>
+      <pubDate>Fri, 14 Sep 2018 06:33:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/restoredefaultlubuntupanel/</guid>
+      <description>Beberapa waktu yang lalu, saya merasa bosan dengan tampilan panel Lubuntu milik saya yang telah saya custom seperti di bawah ini.
+Custom Panel
+Saya merasa bosan dengan tampilan tersebut karena telah lama saya gunakan, dan muncul keinginan saya untuk menggunakan tampilan panel default Lubuntu. Untuk itu, maka saya harus mengembalikannya (restore) ke tampilan defaultnya.
+Alhasil, saya menjalankan keinginan saya tersebut dengan mencari beberapa solusi, dan kemudian saya menemukan sebuah solusi dari askubuntu yang berhasil mengubah panel custom saya tersebut menjadi panel default.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Mengatasi Error Saat sudo apt-get update di Linux</title>
+      <link>https://suryadhi.web.id/artikel/errorupdate/</link>
+      <pubDate>Mon, 18 Jun 2018 06:25:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/errorupdate/</guid>
+      <description>Suatu ketika, setelah saya meng-upgrade sistem operasi di komputer saya dari linux xubuntu 17.10 ke linux xubuntu 18.04, saya menjalankan perintah sudo apt-get update dengan tujuan untuk meng-update sistem operasi saya tersebut. Namun, setelah menjalankan perintah update di terminal, saya justru mendapati pesan seperti berikut ini.
+
+Setelah saya cek, ternyata pesan tersebut merupakan pesan error yang disebabkan oleh tidak tersedianya packages software tersebut (bionic) untuk linux xubuntu versi 18.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Endless OS</title>
+      <link>https://suryadhi.web.id/artikel/endlessos/</link>
+      <pubDate>Sat, 11 Nov 2017 08:32:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/endlessos/</guid>
+      <description>Yuhu...ada OS lumayan bagus nih, namanya Endless OS. Ya, Endless OS, Operating System yang telah resmi dirilis di Indonesia pada awal Juli tahun ini (2017). Setelah saya baca-baca dari berbagai sumber, Endless OS ini merupakan Operating System berbasis Linux. Eist...Linux? Yaps, linux, mungkin banyak yang belum begitu familiar dengan linux. Linux sendiri merupakan operating system komputer yang bertipe Unix. Tipe operating system yang Open Source, yang dapat dimodifikasi, digunakan, dan didistribusikan kembali secara bebas oleh siapa saja.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Membuat Wifi Sendiri di Xubuntu 17.04</title>
+      <link>https://suryadhi.web.id/artikel/wifixubuntu/</link>
+      <pubDate>Mon, 26 Jun 2017 14:32:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/wifixubuntu/</guid>
+      <description>Beberapa hari yang lalu saya baru saja mencoba Xubuntu 17.04 yang sebenarnya telah rilis sekitar dua bulan yang lalu, yaitu pada bulan April. Mungkin ini kesannya kudet, alias kurang kurang update, tapi ya maklum saja karena dulunya saya masih terlalu nyaman dengan versi sebelumnya, yaitu versi 16.04 yang sudah saya custom di sana-sini. Namun, seiring dengan berjalannya waktu, ketidaknyamanan mulai menghampiri dan memaksa saya untuk akhirnya move on ke versi terbarunya.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Cut, Copy dan Paste di Terminal</title>
+      <link>https://suryadhi.web.id/artikel/cutcopypasteterminal/</link>
+      <pubDate>Sat, 12 Dec 2015 21:15:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/cutcopypasteterminal/</guid>
+      <description>Ini adalah sebuah tutorial sederhana mengenai cara Cut, Copy, dan Paste pada terminal. Tutorial berikut ini sangat sederhana dan mungkin beberapa dari kamu sudah sangat familliar dengan isi dari tutorial ini. Tetapi mungkin ada juga beberapa di antara kamu yang belum mengetahuinya, khususnya jika kamu baru mengenal atau memakai linux, dan sedang menjalankan program terminal. Perlu diketahui bahwa program terminal biasanya digunakan untuk menginstall atau menjalankan program baru pada sistem operasi Linux, so tutorial ini pasti nantinya akan sangat membantu.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Upgrade Ubuntu 12.04 ke Ubuntu 14.04</title>
+      <link>https://suryadhi.web.id/artikel/upgradeubuntu1404/</link>
+      <pubDate>Thu, 24 Apr 2014 12:59:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/upgradeubuntu1404/</guid>
+      <description>Kali ini saya akan memberikan sebuah tutorial tentang cara untuk mengupgrade Ubuntu 12.04 LTS ke Ubuntu 14.04 LTS. Kebetulan tutorial ini telah saya coba tadi pagi (24/04/2014), dan alhamdulillah berhasil. So untuk kamu yang berminat dengan tutorial ini, harap diperhatikan dengan seksama, hehehe...
+Pertama, sebelum kamu melakukan upgrade, screenshot dulu tampilan desktop Ubuntu 12.04 milikmu. Hal ini dilakukan ya itung-itung buat kenang-kenangan sama Ubuntu 12.04 karena pastinya banyak hal-hal yang udah kamu lalui bareng desktop versi itu kan.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Rilisnya Linux BlankOn 9.0 Suroboyo</title>
+      <link>https://suryadhi.web.id/artikel/linuxblankon9/</link>
+      <pubDate>Sat, 15 Feb 2014 17:38:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/linuxblankon9/</guid>
+      <description>Yeah...berita gembira berita gembira agan-agan [penggemar OS Linux]. Setelah tadi sore sempet buka Facebook, gue dapet berita kalau BlankOn [Distro Linux Indonesia] telah merilis versi terbaru dari proyeknya yaitu Linux BlankOn 9.0. Dan nama kodenya adalah &#34;Suroboyo&#34;.
+
+Ada beberapa perubahan menarik dan fasilitas baru dari rilis kali ini. Penasaran, cek langsung aja ke web resminya pada tombol di bawah ini.
+Linux BlankOn 9.0 Suroboyo &amp;gt;&amp;gt;
+
+Di situ kamu juga bisa langsung ngunduh ISOnya.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Ganti DNS di Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/gantidnsubuntu/</link>
+      <pubDate>Sat, 11 Jan 2014 16:36:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/gantidnsubuntu/</guid>
+      <description>Kali ini gue mau ngeshare artikel tentang cara mengganti DNS di Ubuntu. Gimana caranya? Mari disimak langkah-langkah di bawah ini.
+1. Pastikan kamu sudah masuk ke koneksi internet melalui modem.
+2. Kemudian kamu buka terminal atau tekan tombol CTRL+ALT+T.
+
+3. Kalau terminalnya udah muncul, lalu masukkan perintah di bawah ini. Terus tekan tombol Enter.
+sudo nano /etc/resolv.conf
+
+4. Munculah tampilan baru seperti gambar di bawah ini.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - List 5 Icon Theme Keren Untuk Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/iconthemeubuntu/</link>
+      <pubDate>Tue, 24 Dec 2013 22:13:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/iconthemeubuntu/</guid>
+      <description>Kali ini gue mau ngasih list 5 icon theme keren beserta perintah untuk menginstallnya. Jadi, kamu bisa memasangnya di desktop Ubuntu yang udah kamu miliki, khususnya Ubuntu 13.10. Insya&#39; Allah kalau kamu udah pasang icon themes di bawah ini, desktop Ubuntu kamu jadi makin keren dan seru deh. Untuk itu simak dengan teliti dan fokus ya, ahehehe...
+1. Buttonized Icon Theme
+
+Perintah untuk menginstall:
+sudo add-apt-repository ppa:upubuntu-com/icons2
+sudo apt-get update</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Julukan Ubuntu 14.04 LTS is TAHR</title>
+      <link>https://suryadhi.web.id/artikel/ubuntutahr/</link>
+      <pubDate>Sat, 26 Oct 2013 04:37:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/ubuntutahr/</guid>
+      <description>Hmm...kayaknya gue kali ini ketinggalan ya, ketinggalan di terminal, tapi gak apalah because ini salah satu distro linux favorit gue, jadi gue sempetin ah buat postingannya. Agan-agan yang kini pakai Ubuntu sebagai dekstop andalannya di komputer maupun notebook pasti udah ngerasain serunya Ubuntu versi baru 13.10 yang baru beberapa hari rilis kemarin. Tampilannya yang baru, fitur-fitur tambahan yang eksotik, pokoknya yang baru jelas lebih bagus dari versi terdahulu. Yang belum ngerasain 13.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Valve Umumkan Kehadiran SteamOS</title>
+      <link>https://suryadhi.web.id/artikel/steamos/</link>
+      <pubDate>Tue, 24 Sep 2013 04:11:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/steamos/</guid>
+      <description>Tadi malem tepatnya gue dapet pengumuman gembira buat pecinta Linux, akan ada Linux baru nih, hehehe...
+Pengumuman nih gue dapet dari Valve. Valve? Iya itu lho perusahaan developer game juragannya Steam. Katanya mereka akan menghadirkan OS Linux mereka sendiri bro. OS yang dinamai SteamOS ini akan didedikasikan buat layanan digital distribution yang support di Linux. And target utama dari pembuatan OS ini adalah untuk menghadirkan PC game berbasis Linux, wow... 😁</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Cherokee Webserver di Ubuntu 13.04</title>
+      <link>https://suryadhi.web.id/artikel/cherokeewebserver/</link>
+      <pubDate>Sat, 07 Sep 2013 17:38:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/cherokeewebserver/</guid>
+      <description>Kali ini ane mau bagi-bagi tutorial cara menginstall Cherokee webserver di Ubuntu 13.04. Sekiranya tutorial ini dapat membantu bagi agan-agan yang punya proyek yang berkaitan dengan webserver. Sebelum memulai tutorial ini, apa sih Cherokee itu gan?
+Cherokee adalah sebuah webserver dengan kinerja yang tinggi. Sangat cepat, fleksibel dan mudah dikonfigurasi gan. Menawarkan dukungan untuk widespread teknologi saat ini. Selain itu, Cherokee sangat efisien, ringan dan memberikan stabilitas rock yang solid.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Moka Icon Theme di Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/installmokaicontheme/</link>
+      <pubDate>Sun, 01 Sep 2013 11:10:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installmokaicontheme/</guid>
+      <description>Ye....balik lagi di suryapersonal. Kali ini ane mau bagi-bagi tentang menginstal Icon Theme yang keren buat Linux agan khusunya Ubuntu. Icon theme yang mau ane bagi ini bernama Moka. Pasti beberapa dari agan sudah mendengar tentang icon theme ini. Moka adalah sebuah icon theme yang dirancang secara sederhana, jelas dan konsisten sebagai pemanis di dekstop Unity, Gnome, Cinnamon dan lainnya (untuk KDE belum tersedia).
+Icon theme ini didistribusikan di bawah GNU GPL versi 3.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Plateau Icon Theme di Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/installplateauicontheme/</link>
+      <pubDate>Thu, 29 Aug 2013 18:02:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installplateauicontheme/</guid>
+      <description>Kali ini ane akan berbagi sebuah tutorial buat mempermanis tampilan Ubuntu agan. Tutorial ini berkaitan dengan icon theme yang bernama Plateau. Plateau ini dibuat dan didesain oleh Sebastian Blonde. Icon theme ini akhir-akhir ini cukup menjadi populer di kalangan pecinta linux. Pengen coba? Yuk simak gan, hehehe....
+Pertama yang harus agan lakukan adalah mendownload file zip dari icon theme Plateau, klik tombol download di bawah ini.
+Download
+
+Jika telah selesai menjalani proses download, buka folder downloads, ekstrak file zip (plateau_0_2_by_sbstnblnd-d6guv3o.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - 18 Wallpaper Yang Akan Jadi Default di Ubuntu 13.10</title>
+      <link>https://suryadhi.web.id/artikel/wallpaperdefaultubuntu/</link>
+      <pubDate>Mon, 26 Aug 2013 04:45:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/wallpaperdefaultubuntu/</guid>
+      <description>Setelah beberapa bulan yang lalu Ubuntu telah mengumumkan bahwa mereka akan merilis the next Ubuntu versi 13.10 Saucy Salamander. Mereka kemudian mengadakan sebuah kontes pencarian bakat atau desain wallpaper. Kegiatan tersebut diselenggarakan untuk mendukung tampilan terbaru dari Ubuntu yang akan rilis bulan Oktober tahun ini (2013). Pemenang dari lomba ini akan mendapat kehormatan karena wallpaper hasil karyanya akan menjadi wallpaper default di Ubuntu 13.10. Beberapa hari yang lalu Ubuntu telah mengumumkan pemenang dari perlombaan ini, dan berikut ini wallpaper yang menang dan akan mempermanis tampilan Ubuntu 13.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - 6 Set Game dari Steam Yang Akan Hadir di Linux</title>
+      <link>https://suryadhi.web.id/artikel/gamesteamlinux/</link>
+      <pubDate>Tue, 06 Aug 2013 06:48:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/gamesteamlinux/</guid>
+      <description>Setelah sekian lama menyepi dari dunia ngeblog mengeblog, dikarenakan kemalesan berinternet yang menghinggapi diri saya minggu lalu, akhirnya kali ini saya memiliki kesempatan untuk sekedar berbagi pada blog ini. Saya akan berbagi kabar yang cukup menggembirakan bagi para game lover yang kini telah berpetualang di OS Linux.
+Painkiller: Hell &amp;amp; Damnation
+
+Natural Selection II
+
+Monaco: What’s Yours is Mine
+
+Garry’s Mod
+
+Air Conflict: Pacific Carrier</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Menginstall MySQL di Linux Mint 15</title>
+      <link>https://suryadhi.web.id/artikel/mysqllinuxmint/</link>
+      <pubDate>Sun, 28 Jul 2013 04:57:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/mysqllinuxmint/</guid>
+      <description>Kali ini ane akan berbagi tentang bagaimana cara menginstall MySQL di Linux Mint 15. Semoga apa yang ane lakuin ini dapat sekiranya membantu Agan dalam memanajemen database server di linux, khususnya di Linux Mint. Yang pertama Agan lakukan dalam proses instalasi ini adalah Agan buka Synaptic Package Manager.
+
+Setelah itu, cari &#39;mysql-server&#39; untuk lebih mudahnya ketikkan &#39;mysql-server&#39; (tanpa tanda kutip) di kotak quick search.
+
+Kalau udah ketemu, klik kanan pada &#39;mysql-server&#39;.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Kingsoft WPS Office Alpha 11</title>
+      <link>https://suryadhi.web.id/artikel/kingsoftwpsoffice/</link>
+      <pubDate>Fri, 19 Jul 2013 04:07:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/kingsoftwpsoffice/</guid>
+      <description>Ini bro update terbaru dari Kingsoft WPS Office. Update terbaru dengan nama rilis Alpha 11 ini membawa beberapa perubahan kecil, tapi tetap seru untuk digunakan dalam aktivitas kerja Anda bro.
+Peningkatan pencocokan huruf pada LinuxTweak antarmuka bahasa InggrisPilihan untuk menonaktifkan halaman template secara onlineBerbagai perbaikan bug misc
+Dari segi tampilan masih mengusung tampilan yang cukup kembar, maksud saya cukup mirip dengan Ms Office, hehehe...
+Kingsoft Presentation
+Kingsoft Spreadsheets
+Kingsoft Writer</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Menginstall Adobe Flash Plugin di Ubuntu 13.04</title>
+      <link>https://suryadhi.web.id/artikel/adobeflashplugin/</link>
+      <pubDate>Mon, 08 Jul 2013 05:55:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/adobeflashplugin/</guid>
+      <description>Suatu ketika saat saya sedang menginstal Adobe Flash di Ubuntu 13.04 melalui Ubuntu Software, saya menemui kendala yang cukup menyulitkan. Kendala tersebut terlihat pada gambar di bawah ini.Terlihat bahwa tombol install tersebut nampak redup atau tidak seperti biasanya, yaitu tulisan install biasanya bewarna hitam. Itu berarti Adobe Flash tidak dapat diinstal di Ubuntu saya. Bingung bagaimana cara mengatasinya, alih-alih saya mencoba mencari solusinya dengan blusukan di mbah google. Dan wala...akhirnya ketemu juga.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Menyembunyikan Guest Session Saat Login di Ubuntu 13.04</title>
+      <link>https://suryadhi.web.id/artikel/guestsessionubuntu/</link>
+      <pubDate>Thu, 20 Jun 2013 05:20:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/guestsessionubuntu/</guid>
+      <description>Pada kesempatan ini, saya akan membagikan sebuah tips bagaimana cara menyembunyikan Guest Session pada saat login di Ubuntu 13.04. Sebelumnya Anda pasti telah tahu apa itu Guest Session kan? Guset Session adalah sebuah fitur dalam Ubuntu yang memungkinkan Anda untuk memilih sesi dekstop yang telah terinstal di Ubuntu Anda, seperti misalnya Unity, Gnome XCFE, dan lain-lain.
+
+Oke kembali lagi dengan tipsnya, tips ini cukup singkat untuk Anda lakukan. Cukup masukkan perintah di bawah ini ke dalam terminal:</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Open Shot Video Editor di Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/openshotvideoeditor/</link>
+      <pubDate>Sun, 19 May 2013 10:12:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/openshotvideoeditor/</guid>
+      <description>Kalau bang Arya selalu bilang Demi Tuhan, saya sebagai seorang pelajar akan selalu berkata Demi Tugas...., hahahaha....
+Seorang pelajar memang tak pernah luput dari apa yang namanya tugas. Tugas dari guru yang bervariasi, mula dari tugas yang enteng sampai tugas berat + aneh dan jumlahnya super wow alias banyak sob. Sampai pada suatu ketika saya mendapati sebuah tugas dari guru TIK saya untuk mengedit sebuah video tutorial.
+Sebenarnya pada saat saya SMP dulu, proses edit-mengedit video sudah pernah saya lakuan berulang kali dengan memakai Corel Video Studio di sistem operasi Windows.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Telah Rilis Linux Mint 15</title>
+      <link>https://suryadhi.web.id/artikel/rilislinuxmint15/</link>
+      <pubDate>Thu, 16 May 2013 21:31:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/rilislinuxmint15/</guid>
+      <description>Di era globalisasi ini, hidup remaja mulai terpenuhi dengan apa yang namanya update. Updatenya ya bermacam-macam, mulai dari update materi pelajaran, update berita, update anime, update sosmed(sosial media), sampai ada yang update cinta, wkwkwkwkw....
+Karena saya juga masih termasuk golongan remaja, rutinitas update tersebut juga menginvasi hidup saya. Sampai pada malam ini hari Kamis, 16 Mei 2013 pukul 21.00 WIB saya melakukan rutinitas update pada sosmed. Rencananya sih setelah update sosmed mau langsung molor, hahaha.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Telah Rilis Ubuntu 13.04 Raring Ringtail</title>
+      <link>https://suryadhi.web.id/artikel/ubunturaringringtail/</link>
+      <pubDate>Thu, 25 Apr 2013 20:27:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/ubunturaringringtail/</guid>
+      <description>Sabar adalah kata yang tepat ketika Anda sedang menantikan sesuatu. Dan ini mungkin berlaku ketika Anda yang seorang linuxer sedang menantikan sesuatu yang baru dalam dunia linux. Hal ini telah saya rasakan ketika saya yang juga linuxer yang menggemari Ubuntu sedang anteng-antengnya nunggu rilisan versi teranyarnya.
+Rasa sabar itu berujung pada hal yang menarik ketika yang ditunggu-tunggu akhirnya tiba. Itulah yang saya rasakan ketika menerima kabar bahwa telah dirilis secara resmi Ubuntu 13.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Pasang Indicator Brightness Control di Linux Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/indicatorbrightness/</link>
+      <pubDate>Thu, 25 Apr 2013 05:03:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/indicatorbrightness/</guid>
+      <description>Ketika pertama kali saya memakai Ubuntu, ada sesuatu yang mencurigakan dalam proses pemakaian yang saya lakukan itu. Satu hal yang pasti janggal, yaitu tidak tersedianya layanan Brightness Control. Tidak adanya layanan tersebut, hanya akan membuat kekuatan baterai laptop saya semakin down. Untuk mencegah agar hal tersebut tidak terjadi, saya akhirnya menemukan satu program jitu yang saya pasang melalui PPA.
+Program tersebut bernama Indicator Brightness Control. Indicator Brightness Control ini memberikan layanan seperti brightness control lainnya.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Perubahan Tampilan Website Resmi Ubuntu dari Tahun 2007 sampai 2013</title>
+      <link>https://suryadhi.web.id/artikel/websiteubuntu2007-2013/</link>
+      <pubDate>Tue, 16 Apr 2013 12:13:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/websiteubuntu2007-2013/</guid>
+      <description>Melihat sebuah status yang ditulis oleh admin FansPage resmi dari Ubuntu, saya terinspirasi untuk membuat artikel nostalgia bagi Anda yang mungkin sejak dulu selalu update di website resmi Ubuntu.
+
+Dengan preview web yang telah saya dapatkan sejak tahun 2007, saya putuskan untuk merampungkan artikel singkat ini. Mari kita simak beberapa preview website resmi Ubuntu yang telah saya susun berdasarkan tahun, dari tahun 2007 hingga sekarang (2013). 
+20072008200920102011</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Akan Hadir Okusi Business Desktop</title>
+      <link>https://suryadhi.web.id/artikel/okusibusinessdesktop/</link>
+      <pubDate>Mon, 15 Apr 2013 16:36:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/okusibusinessdesktop/</guid>
+      <description>Sore-sore Facebook-an, itulah rutinitas seorang ABG seperti saya. Kalo gak sibuk ama buku ya nimbrung &amp;nbsp;gini sama social media. Asyik-asyik cek status Facebook, saya temukan sebuah informasi yang menarik. Informasi yang sekiranya membuat saya semakin penasaran, apa sebenarnya itu? Informasi tersebut adalah seperti di gambar di bawah ini.
+
+Ternyata informasi yang telah saya dapatkan dari FansPAge ubuntu-indonesia itu adalah Okusi Business Desktop (OBD). Lantas saya klik link yang tersedia di info tersebut.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Upgrade Dekstop dan Server Ubuntu 12.10 ke 13.04 Final Beta</title>
+      <link>https://suryadhi.web.id/artikel/upgradeubuntu1304/</link>
+      <pubDate>Thu, 11 Apr 2013 21:48:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/upgradeubuntu1304/</guid>
+      <description>Baru-baru ini telah dirilis Ubuntu 13.04 Raring Ringtail Final Beta. Terdapat beberapa pengenalan fitur baru dan perbaikan bug. Untuk mengetahui lebih lengkapnya tentang 2 hal tersebut, Anda dapat mengetahuinya dengan cara mencobanya, bila Anda sebelumnya telah menggunakan Ubuntu 12.10, Anda dapat mencoba Ubuntu 13.04 Final Beta ini dengan cara meng-upgrade. Bagaimana caranya? Berikut ini langkah upgrade yang dapat saya berikan.
+Upgrade Dekstop
+Jalankan aplikasi update-manager-d dari Unity Dash atau baris perintah.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Pasang atau Upgrade Linux Kernel 3.8.6 di Ubuntu dan Linux Mint</title>
+      <link>https://suryadhi.web.id/artikel/upgradelinuxkernel386/</link>
+      <pubDate>Mon, 08 Apr 2013 10:47:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/upgradelinuxkernel386/</guid>
+      <description>Pagi ini saya akan membagikan cara memasang atau mengupgrade Linux Kernel 3.8.6 di Ubuntu dan Linux Mint. Bagi yang berminat mencobanya, mari disimak dengan serius artikel ini. Untuk arsitektur i386/amd64, Anda dapat menginstal Linux Kernel 3.8.6 dengan perintah berikut:
+cd /tmp
+wget http://dl.dropbox.com/u/47950494/upubuntu.com/kernel-3.8.6 -O kernel-3.8.6
+chmod +x kernel-3.8.6
+sudo sh kernel-3.8.6
+sudo reboot
+Untuk sistem berbasis ARM, Anda dapat menginstal kernel 3.8.6 dengan perintah ini:
+wget http://dl.dropbox.com/u/47950494/upubuntu.com/arm-kernel-3.8.6 -O arm-kernel-3.8.6</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Telah Rilis Gnome 3.8</title>
+      <link>https://suryadhi.web.id/artikel/gnome38/</link>
+      <pubDate>Mon, 01 Apr 2013 18:43:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/gnome38/</guid>
+      <description>Ela..ela...ternyata gnome sudah rilis lagi nih. Rilis keberapa ya ni? Saya cek di OMG Ubuntu! dan mendapati bahwa ini merupakan rilis versi 3.8. Dalam pengecekkan yang saya lakukan di OMG, saya mendapati bahwa Gnome versi 3.8 ini membawa 10 fitur baru yang semakin membuat Gnome makin cetar membahana. Apa saja 10 fitur baru tersebut? berikut ringkasannya:
+NotificationsClassic ModeImproved SearchWeb ChangesDocuments &amp;lt;3 GooglePrivacy OptionsAll The TweaksClocks AppNew App PreviewsApp Launching Made Easier</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Live Wallpaper di Ubuntu dan Linux Mint</title>
+      <link>https://suryadhi.web.id/artikel/livewallpaperlinux/</link>
+      <pubDate>Sat, 30 Mar 2013 16:47:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/livewallpaperlinux/</guid>
+      <description>Pada kesempatan kali ini Admin mau ngeshare tutorial cara menginstal Live Wallpaper di Ubuntu dan Linux Mint. Apa itu Live Wallpaper? Live Wallpaper merupakan software yang dapat memunculkan beberapa wallpaper animasi di dekstop Linux. Admin telah mencobanya, dan beginilah hasilnya.
+Hasil Live Wallpaper
+Apakah Anda tertarik untuk mencobanya di Ubuntu atau Linux Mint milik Anda? Jika Anda mau mencoba software ini, saya sarankan kepada Anda untuk tidak mencobanya di komputer atau laptop dengan spesifikasi yang rendah.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Menginstall Cinnamon 1.6 di Linux Mint</title>
+      <link>https://suryadhi.web.id/artikel/cinnamon16/</link>
+      <pubDate>Sat, 30 Mar 2013 09:29:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/cinnamon16/</guid>
+      <description>Eits...hari Sabtu lagi libur(buat yang lagi gak libur, jangan ngiri ya), di libur ini daripada nganggur gak jelas, mending buat tutorial ah....
+Tutorial saya kali ini adalah cara menginstall cinnamon 1.6 di Linux Mint. Wew...tunggu dulu, bukannya Linux Mint udah pake dekstop Cinnamon?
+Hahahaha...iya memang sih, namun Anda harus ingat bahwa Linux Mint tidak hanya dirilis dalam dekstop Cinnamon, Linux Mint juga tersedia dalam dekstop Mate, KDE dan XFCE. Tutorial ini mungkin akan dapat membantu Ada yang telah terlanjur mengunduh Linux Mint dengan dekstop Mate, KDE atau XFCE yang sedang menginginkan perubahan ke bentuk mode Sennin, eh maksudnya berubah ke dekstop Cinnamon, hehehehe.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Telah Rilis Game Dead Cyborg Episode 2</title>
+      <link>https://suryadhi.web.id/artikel/deadcyborgep2/</link>
+      <pubDate>Mon, 25 Mar 2013 04:08:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/deadcyborgep2/</guid>
+      <description>Uhuy....ada kabar tentang game baru nih, game apaan? Game ini bernama &#34;Dead Cyborg&#34;, apa Anda sudah mengetahui tentang game tersebut? Dead Cyborg merupakan game petualangan yang mengharuskan pemainnya untuk mengeksplorasi, mencari dan berpikir. Game ini juga merupakan campuran antara FPS exploration dan text adventure.
+Game ini sebelumnya telah dirilis pada episode pertamanya beberapa tahun yang lalu, dan kini game Dead Cyborg telah kembali dengan episode 2 yang telah dirilis pada tahun ini.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Pasang Wallpaper Ubuntu Phone di Linux Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/wallpaperubuntuphone/</link>
+      <pubDate>Sat, 02 Mar 2013 06:38:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/wallpaperubuntuphone/</guid>
+      <description>Pasti Anda telah mengetahui bahwa Ubuntu telah dengan resmi merilis produk terbarunya yaitu Ubuntu Phone. Dalam rilis smartphone ini, nampak terlihat di layar dekstop terpampang wallpaper yang unik. Wallpaper tersebut bernama Evolving Circle Wallpaper yang terinspirasi dari Ubuntu Phone OS lock screen. Menggunakan warna acak untuk lingkaran luar dan gradiennya. Evolving Circle Wallpaper telah dirancang untuk menampilkan lingkaran utama waktu jam, berubah menjadi putih sampai siang, kemudian memudar keluar hingga tengah malam.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Install Nvidia Driver 310.14 di Ubuntu dan Linux Mint</title>
+      <link>https://suryadhi.web.id/artikel/nvidiadriver310/</link>
+      <pubDate>Fri, 08 Feb 2013 13:48:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/nvidiadriver310/</guid>
+      <description>Setelah disibukkan dengan template blog ini, kali ini saya akan ngeshare lagi hal-hal yang sepertinya akan berguna untuk saya dan Anda. Kali ini saya akan ngeshare tutorial untuk menginstal driver Nvidia 310.14 beta pada linux Ubuntu 12.10/12.04 dan linux Mint 13. Tidak perlu basa-basi, mari kita simak tutorial berikut ini:
+Buka terminal dan jalankan perintah di bawah ini:
+sudo add-apt-repository ppa:xorg-edgers/ppa
+sudo apt-get update
+sudo apt-get install nvidia-current nvidia-settings</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Code Name Linux Mint 15</title>
+      <link>https://suryadhi.web.id/artikel/linuxmint15/</link>
+      <pubDate>Tue, 29 Jan 2013 16:12:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/linuxmint15/</guid>
+      <description>Hmm...saya bingung hari ini mau ngeshare apaan ya? Oh, ya berhubung tadi pagi saya mampir di blog-nya Linux Mint, di blog tersebut terdapat tautan mengenai code name linux mint 15. Oleh karena itu saya mau ngeshare code name linux mint 15. Dari informasi yang saya peroleh di &amp;nbsp;blog Linux Mint, saya mendapati bahwa code name linux mint 15 bernama &#34;Olivia&#34;. Olivia yang ini tidak berkaitan dengan Olivia Zaliyanti lho, hehehehe.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Upgrade Fedora 18</title>
+      <link>https://suryadhi.web.id/artikel/upgradefedora/</link>
+      <pubDate>Sun, 27 Jan 2013 06:00:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/upgradefedora/</guid>
+      <description>Fedora telah merilis versi terbarunya, yaitu versi 18 pada tanggal 15 Januari 2013. Rilis versi 18 ini membawa beberapa perbaikan dan perubahan pada tampilan fedora versi sebelumnya. Jika Anda adalah seorang pengguna Fedora dan Anda ingin meng-upgrade Fedora Anda ke versi 18, berikut ini cara yang akan saya berikan untuk membantu Anda. Mari kita simak! 😁
+Sebelum memulai upgrade, silahkan backup data penting sebelum memulai upgrade. Anda dapat meng-upgrade dengan menggunakan fedup.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Flareget Download Manager di Ubuntu atau Linux Mint</title>
+      <link>https://suryadhi.web.id/artikel/flareget/</link>
+      <pubDate>Fri, 18 Jan 2013 13:37:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/flareget/</guid>
+      <description>Jika Anda seprang yang menggemari sistem operasi berbasis linux, apa yang akan Anda lakukan saat melakukan proses download file? Apakah saat melakukan hal tersebut di sistem operasi linux, Anda berandai-andai untuk memakai IDM?
+Namun sepertinya IDM cukup sulit untuk digunakan pada sistem operasi berbasis linux. Walaupun begitu, Anda tak perlu berputus asa karena ternyata ada sebuah software mirip IDM yang dapat Anda terapkan pada Linux Anda. Software ini bernama Flareget. Software ini mempunyai fitur yang bisa dibilang hampir mirip dengan IDM, hanya saja perbedaannya terletak pada penerapan sistem operasi.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Melindungi File atau Folder di Ubuntu / Linux Mint dengan Password/ Sandi</title>
+      <link>https://suryadhi.web.id/artikel/passwordsandi/</link>
+      <pubDate>Tue, 08 Jan 2013 03:25:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/passwordsandi/</guid>
+      <description>Dalam tutorial ini, saya akan menjelaskan cara mudah melindungi file atau folder di Ubuntu / Linux Mint dengan password/ sandi. Anda tidak harus menggunakan perangkat lunak pihak ketiga, kita hanya akan menggunakan manajer arsip untuk kompres file atau folder dan menguncinya dengan password sehingga pengguna komputer yang tidak sah tidak dapat menyalin file atau folder Anda tersebut.
+Pada jendela yang akan muncul, pilih compression format (7z, zip, tar, dll), kemudian klik Other Options:</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Ubuntu Tweak 0.8.3 di Ubuntu dan Linux Mint</title>
+      <link>https://suryadhi.web.id/artikel/ubuntutweak/</link>
+      <pubDate>Wed, 02 Jan 2013 04:03:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/ubuntutweak/</guid>
+      <description>Ubuntu Tweak adalah aplikasi untuk konfigurasi Ubuntu yang lebih mudah untuk semua orang. Aplikasi ini menyediakan banyak opsi konfigurasi desktop yang berguna yang secara default tidak disediakan. Dengan bantuan aplikasi ini, Anda akan dapat menikmati pengalaman seru bersama Ubuntu.
+
+Kini Ubuntu Tweak telah memasuki versi 0.8.3, versi terbarunya ini membawa beberapa perbaikan bug dan perbaikan kecil. Ada dua perbaikan utama dalam rilis ini:
+Mirrors untuk Apps dataOverlay Scrollbar Settings untuk Ubuntu 12.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Microsoft Office 2010 di Ubuntu dan Linux Mint</title>
+      <link>https://suryadhi.web.id/artikel/microsoftoffice2010/</link>
+      <pubDate>Sun, 30 Dec 2012 03:46:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/microsoftoffice2010/</guid>
+      <description>Beberapa pemula mungkin merasa sulit untuk menginstal Microsoft Office 2010 di Ubuntu/ Linux Mint menggunakan Wine. Dalam tutorial singkat ini, kita akan mencoba untuk memfasilitasi proses instalasi untuk Anda dengan memberikan semua langkah yang diperlukan, didukung oleh screenshot untuk menjalankan Office 2010 di sistem anda. Tetapi beberapa bug yang mungkin muncul saat menjalankan Office, saya tidak dapat memastikan bahwa semua pengguna dapat mendapatkannya atau tidak.
+Tutorial ini berlaku untuk Ubuntu / Linux Mint distribusi berikut:</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Variety wallpaper changer di Ubuntu 12.10</title>
+      <link>https://suryadhi.web.id/artikel/varietywallpaperchanger/</link>
+      <pubDate>Sat, 22 Dec 2012 06:04:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/varietywallpaperchanger/</guid>
+      <description>Variety wallpaper changer adalah changer wallpaper penuh fitur yang bekerja pada Ubuntu dan turunannya (Kubuntu, Lubuntu, dan Xubuntu). Aplikasi ini dapat mengubah wallpaper secara teratur atau secara otomatis dengan mengunduh gambar dari sumber online. Berikut adalah beberapa fitur kunci dari Variety wallpaper changer:
+Menampilkan jam digital pada desktop.Pilihan untuk menerapkan berbagai filter gambar yang menarik.Visualisasi sejarah dan folder gambar yang&amp;nbsp;besar&amp;nbsp;emungkinkan pengguna untuk dengan mudah mengubah wallpaper secara manual.
+Variety wallpaper changer&amp;nbsp;dapat mengunduh gambar dari Flickr, Wallbase.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - IGOS Nusantara, Distro Anak Bangsa Yang Patut Dibanggakan</title>
+      <link>https://suryadhi.web.id/artikel/igosnusantara/</link>
+      <pubDate>Fri, 21 Dec 2012 18:47:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/igosnusantara/</guid>
+      <description>Suatu ketika saat saya dihadapkan pada rutinitas seorang remaja galau yang mencari pengihibur lara dengan mengakses jerjaring sosial seperti halnya Twitter, eh temen saya ada yang ngetwit IGN yang hubungannya dengan Indonesia. Rasa penasaran perlahan muncul dalam benak saya, ya maklum namanya juga anak muda, ceileh, hehehe...
+Usut punya usut, saya mencari pengertian atau kepanjangan dari IGN di mbah sepuh yang tau akan segala hal yang bermambu(bau) IT, yaitu mbah Google.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - BlankOn Linux, Cerdaskan Kehidupan Bangsa dengan Produk Dalam Negeri</title>
+      <link>https://suryadhi.web.id/artikel/blankonlinux/</link>
+      <pubDate>Wed, 19 Dec 2012 21:26:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/blankonlinux/</guid>
+      <description>Linux...linux..dan linux, yah itulah sebuah jenis sistem operasi yang mirip dengan Unix. Linux dapat Anda unduh secara gratis alias Opensource. Linux memuat banyak keunggulan dibandingkan dengan sistem operasi yang masih mendunia bernama Wind*ws.
+Keunggulan tersebut antara lain yaitu Linux dapat diunduh secara bebas, tampilan lebih mudah untuk dimodifikasi, sulit untuk terjangkit virus, dll. Namun kebanyakan orang berpikir bahwa Linux itu relatif sulit dalam pengoperasiannya. Saya berpendapat bahwa pemikiran orang-orang tersebut adalah salah, karena Linux mudah untuk dioperasikan.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Zim Text Editor 0.58 di Ubuntu dan Linux Mint</title>
+      <link>https://suryadhi.web.id/artikel/installzimtexteditor/</link>
+      <pubDate>Tue, 18 Dec 2012 03:47:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installzimtexteditor/</guid>
+      <description>Kini telah dirilis lho Zim versi 0.58, rilis kali ini memuat perbaikan pecegahan terjadinya bug, terutama mencegah terjadinya bug yang menyebabkan tebarkan proses antara aplikasi di Linux. Rilis baru ini memungkinkan pengguna untuk mengekspor persamaan LaTeX dan link interwiki.
+Zim adalah (WYSIWYG) grafis editor teks yang ditulis dengan Python dan GTK + yang dikembangkan oleh Jaap Karssenberg yang membawa konsep wiki ke desktop Linux Anda. Zim juga dianggap sebagai jurnal pribadi atau to-do list.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - RemoteBox, Mengelola VirtualBox pada Server</title>
+      <link>https://suryadhi.web.id/artikel/remotebox/</link>
+      <pubDate>Mon, 10 Dec 2012 15:07:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/remotebox/</guid>
+      <description>RemoteBox memungkinkan Anda untuk mengelola instalasi VirtualBox yang berada di komputer lain seperti server, seolah-olah itu diinstal secara lokal. Anda juga dapat berinteraksi dengan menampilkan para tamu. Hal ini memungkinkan Anda untuk mengobati VirtualBox lebih seperti instalasi Xen, KVM atau VMware ESX.
+
+Instal RemoteBox di Ubuntu
+sudo add-apt-repository ppa:upubuntu-com/virtual
+sudo apt-get update
+sudo apt-get install remotebox
+Untuk informasi yang lebih detail mengenai RemoteBox, Anda dapat melihatnya di sini. </description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Update Icon Nitrux OS Versi 2.2A </title>
+      <link>https://suryadhi.web.id/artikel/updateiconnitruxos/</link>
+      <pubDate>Sun, 02 Dec 2012 16:20:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/updateiconnitruxos/</guid>
+      <description>Icon Nitrux OS versi 2.2a telah dirilis. Ini rilis terbaru yang hanya mencakup dua varian:
+NITRUX (Squared Icons)NITRUX-Buttons (Buttonized Version)
+Varian ini akan dihapus dari Icon&amp;nbsp;Nitrux OS:
+NITRUX-DarkNITRUX-Clear-AllNITRUX-Azure&amp;nbsp;NITRUX-Mint
+PPA tersedia untuk distribusi linux berikut:
+Ubuntu 12.10/12.04/11.10Linux Mint 14/13
+Untuk menginstal Icon Nitrux OS, Anda buka terminal dan masukkan perintah-perintah ini ke dalam terminal:
+sudo add-apt-repository ppa:upubuntu-com/themes
+sudo apt-get update
+sudo apt-get install nitruxos
+Untuk mengaktifkan NITRUX, jalankan perintah ini:</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Reinstall/ Perbaikan GRUB 2 Bootloader di Ubuntu 12.10/12.04</title>
+      <link>https://suryadhi.web.id/artikel/reinstallbootloaderubuntu/</link>
+      <pubDate>Sat, 24 Nov 2012 16:07:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/reinstallbootloaderubuntu/</guid>
+      <description>Dalam tutorial ini, saya akan menunjukkan kepada Anda bagaimana menggunakan utilitas&amp;nbsp;Boot Repair&amp;nbsp;untuk memperbaiki boot loader Grub 2 di Ubuntu/ Linux Mint.&amp;nbsp;Boot Repair&amp;nbsp;berguna bagi pengguna yang mengalami masalah booting yang terjadi terutama ketika dual-boot Ubuntu dengan sistem operasi lain seperti Windows 8/7, dll. Anda juga dapat menggunakannya untuk menginstal ulang Grub 2 bila Anda memiliki boot loader yang telah&amp;nbsp;terkonfigurasi. Untuk memulia tutorial ini, Anda harus memenuhi beberapa persyaratan berikut ini:
+Ubuntu Live CD / USB (Ubuntu 12.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install PHP-Nuke 8.2 CMS di Ubuntu 12.10/12.04/Linux Mint 13</title>
+      <link>https://suryadhi.web.id/artikel/installphpnuke82/</link>
+      <pubDate>Wed, 21 Nov 2012 14:36:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installphpnuke82/</guid>
+      <description>Dalam tutorial ini, kita akan melihat bagaimana menginstal PHP Nuke 8.2 lokal dalam sistem Ubuntu/ Linux Mint. Tutorial ini juga bisa diterapkan untuk&amp;nbsp;sistem&amp;nbsp;lainnya yang berbasis Debian. PHP Nuke adalah CMS&amp;nbsp;(Content Management System)&amp;nbsp;populer yang memberikan kontrol administrator penuh atas website(portal).
+Versi terbaru (8.2.4) datang dengan perbaikan bug lebih dan perbaikan keamanan. Anda dapat menemukan di sini fitur yang ditambahkan untuk PHP Nuke 8.2.4.
+1. Instal Server LAMP
+Untuk dapat menjalankan PHP Nuke pada sistem Anda, kita perlu menginstal terlebih dahulu web server.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Cinnamon di Ubuntu 12.10 Gnome Remix</title>
+      <link>https://suryadhi.web.id/artikel/installcinnamonubuntu/</link>
+      <pubDate>Sat, 17 Nov 2012 12:28:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installcinnamonubuntu/</guid>
+      <description>Di sini saya akan memberikan sebuah tutorial yang berjudul &#34;Instal Cinnamon di Ubuntu&amp;nbsp;12.10&amp;nbsp;Gnome Remix&#34;. Jika Anda telah mengunduh Ubuntu 12.10 dengan dekstop Gnome, namun Anda ingin merubah dekstop tersebut dengan Cinnamon, mungkin tutorial saya kali ini dapat membantu memecahkan masalah Anda tersebut.
+Ubuntu 12.10 dengan dekstop Gnome
+Oke, tanpa perlu basa basi, mari kita simak tutorial berikut ini:
+Instal Cinnamon
+Buka terminal dan masukkan perintah di bawah ini di terminal</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Menginstal Skype 4.1 di Ubuntu/ Linux Mint</title>
+      <link>https://suryadhi.web.id/artikel/skypelinux/</link>
+      <pubDate>Thu, 15 Nov 2012 04:22:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/skypelinux/</guid>
+      <description>Skype 4.1 baru saja dirilis untuk sistem Linux yang membawa kompatibilitas yang lebih baik untuk Unity dan Gnome Shell. Dalam tutorial ini, saya akan membantu Anda menginstalnya ke dalam Ubuntu/ Linux Mint. Tapi pertama-tama, mari kita lihat beberapa fitur baru dan perubahan dalam rilis terbaru:
+Ngobrol dengan teman menggunakan&amp;nbsp;Windows Live Messenger&amp;nbsp;di SkypeMasuk menggunakan akun Microsoft tanpa perlu membuat akun Skype baruKualitas video untuk video chatting lebih baik, dll
+Untuk menginstal Skype 4.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Linux Mint 14 NADIA, Telah Dirilis</title>
+      <link>https://suryadhi.web.id/artikel/linuxmint14/</link>
+      <pubDate>Mon, 12 Nov 2012 15:02:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/linuxmint14/</guid>
+      <description>Kabar gembira bagi Anda pecinta linux alias Linuxer, khususnya bagi Anda pengguna Linux Mint. Linux Mint 14 dengan codename &#34;NADIA&#34; telah dirilis pada hari ini. Berita ini saya dapatkan melalui blog resmi linux mint. Dalam rilis versi 14 ini terdapat beberapa perubahan dan penambahan beberapa fitur, berikut ini info yang saya peroleh.
+Fitur TerbaruMATE 1.4
+
+Cinnamon 1.6
+
+Workspace OSD
+
+Window Quick-List
+
+Notifications Applet
+
+Alt-Tab Thumbnails and Window Previews</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Mengubah Splash Screen LibreOffice 3.6.x di Ubuntu/ Linux Miint</title>
+      <link>https://suryadhi.web.id/artikel/splashscreenlibreoffice/</link>
+      <pubDate>Mon, 12 Nov 2012 05:09:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/splashscreenlibreoffice/</guid>
+      <description>Dalam tutorial ini, kita akan melihat bagaimana mengubah splash screen LibreOffice 3.6.x di Ubuntu/ Linux Mint. Jika Anda belum membuat splash screen Anda sendiri, Anda dapat mencari dan mengunduh beberapa dari mereka di sini.
+
+
+
+Instal Libre Office 3.6.x
+Jika Anda belum upgrade ke LibreOffice 3.6, kemudian melakukan dengan perintah di bawah Ubuntu 12.10/12.04/Linux Mint 13:
+sudo apt-get purge libreoffice-core
+sudo add-apt-repository ppa:libreoffice/libreoffice-prereleases
+sudo apt-get update
+sudo apt-get install libreoffice</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Backup/ Restore Paket Dan Aplikasi Ubuntu/ Linux Mint</title>
+      <link>https://suryadhi.web.id/artikel/backuprestorelinux/</link>
+      <pubDate>Tue, 06 Nov 2012 15:54:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/backuprestorelinux/</guid>
+      <description>Dalam tutorial ini, kita akan belajar membuat cadangan (backup) dari semua paket dan aplikasi yang telah diinstal dari repositori atau Ubuntu Software Center di Ubuntu, Linux Mint, atau sistem berbasis Debian.
+Tutorial ini akan membantu kamu agar dengan mudah dapat mengembalikan aplikasi setelah menginstal salinan baru dari sistem operasimu tanpa perlu menginstal setiap paket secara terpisah. Dengan hanya beberapa perintah, kamu dapat menyimpan daftar semua aplikasi yang diinstal dan paket dalam sebuah file teks.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Google Earth 7 di Ubuntu 12.10/12.04/ Linux MInt 13</title>
+      <link>https://suryadhi.web.id/artikel/installgoogleearth7linux/</link>
+      <pubDate>Thu, 01 Nov 2012 21:47:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installgoogleearth7linux/</guid>
+      <description>Dalam tutorial ini saya akan membantu anda menginstal Google Earth 7 di Ubuntu / Linux Mint. Versi terbaru ini mencakup fitur-fitur baru yang lebih menarik seperti citra 3D dan pemandu wisata. Fitur-fitur ini memungkinkan pengguna untuk melihat beberapa kota di 3D yang akan menjadi luar biasa bagi pemilik HDTV dan monitor layar lebar. Untuk informasi lebih lanjut tentang rilis terbaru, klik di sini.
+Proses instalasi untuk distribusi Linux berikut:</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Clementine di Ubuntu dan Linux Mint (Rilis Terbaru)</title>
+      <link>https://suryadhi.web.id/artikel/installclementinelinux/</link>
+      <pubDate>Sun, 28 Oct 2012 06:08:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installclementinelinux/</guid>
+      <description>Clementine adalah musik plater modern dan penyedia perpustakaan musik. Clementine adalah pemutar musik multi-platform. Hal ini terinspirasi oleh Amarok 1.4, berfokus pada antarmuka cepat dan mudah digunakan untuk mencari dan memainkan musik Anda.
+
+Fitur:
+Cari dan memutar perpustakaan musik lokal Anda.Mendengarkan radio internet dari Spotify, Grooveshark, Last.fm, SomaFM, Magnatune, Jamendo, SKY.fm dan digital Impor, dan Icecast.Membuat daftar putar cerdas dan playlist dinamis.Tabbed playlist, impor dan ekspor M3U, XSPF, PLS dan ASX.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Linux Kernel 3.6.3 di Ubuntu 12.10/12.04/Linux Mint 13</title>
+      <link>https://suryadhi.web.id/artikel/installlinuxkernel363/</link>
+      <pubDate>Wed, 24 Oct 2012 13:06:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installlinuxkernel363/</guid>
+      <description>Linux kernel 3.6.3 telah dirilis baru-baru ini, versi terbaru ini membawa perubahan dan perbaikan bug. Berikut adalah beberapa perubahan dalam kernel terbaru:
+• PCI INTx eventfd pengaturan telah dipindahkan sebelumnya;
+• PCI INTx menonaktifkan konsistensi telah diperbaiki;
+• Delegasi Bad selama pemulihan terbuka telah dihapus;
+• Jack deteksi pada speaker internal untuk Realtek telah diperbaiki;
+• Ambang badai EPG sekarang menjadi parameter modul;
+• CPU / DDR frekuensi perhitungan untuk SRIF PLLs telah diperbaiki;</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Metode Untuk Mengubah Wallpaper Layar Login di Ubuntu 12.10 (Quantal Quetzal)</title>
+      <link>https://suryadhi.web.id/artikel/wallpaperubuntuquantal/</link>
+      <pubDate>Wed, 17 Oct 2012 02:41:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/wallpaperubuntuquantal/</guid>
+      <description>Dalam tutorial ini kita akan melihat dua cara untuk mengubah wallpaper default layar login Anda di Ubuntu 12.10 (Quantal Quetzal). Mengubah gambar latar belakang layar logon akan membuatnya lebih menarik dan memenuhi selera Anda.
+
+Pertama-tama, saya ingin memberi tahu Anda bahwa saya telah mencoba untuk mengubah layar logon dengan Ubuntu Tweak Ubuntu 12.10, tapi sayangnya tidak berhasil karena bug. Penulis Ubuntu Tweak telah berjanji bahwa itu akan diperbaiki dalam versi berikutnya dari perangkat lunak.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Lamp Server dengan Tasksel di Ubuntu 12.10/12.04 dan Linux Mint 13</title>
+      <link>https://suryadhi.web.id/artikel/installlampserver/</link>
+      <pubDate>Tue, 09 Oct 2012 13:31:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installlampserver/</guid>
+      <description>Salam linuxer! Oke kali ini saya akan membagikan sebuah tutorial yaitu tutorial cara menginstal Lamp Server dengan menggunakan Tasksel. Sebelumnya apa itu Lamp Server?
+
+Lamp Server adalah singkatan dari Linux, Apache, MySQL dan PHP adalah sebuah set instalasi yang sangat populer untuk sebuah web server yang mendukung PHP dan MySQL.
+Tutorial ini dapat Anda coba pada Ubuntu 12.10/12.04 atau di Linux Mint 13 milik Anda.
+Instal Lamp Server</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install MAME (Multiple Arcade Machine Emulator) di Ubuntu 12.10/12.04 dan Linux Mint 13</title>
+      <link>https://suryadhi.web.id/artikel/mamelinux/</link>
+      <pubDate>Fri, 05 Oct 2012 05:03:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/mamelinux/</guid>
+      <description>MAME (Multiple Arcade Machine Emulator) adalah sebuah software emulasi yang memungkinkan pengguna untuk bermain game arcade klasik dalam komputer modern dan platform. Emulator ini mendukung lebih dari 7000 game arcade + video dari era 1970-an sampai sekarang.
+
+Dalam tutorial ini kami akan membantu anda menginstal MAME dalam distribusi Linux berikut:
+Ubuntu 12.10 (Quantal Quetzal)Ubuntu 12.04 (Precise Pangolin)Linux Mint 13
+1.&amp;nbsp;Instalasi&amp;nbsp;MAME
+Buka terminal bawah Ubuntu / Linux Mint dan menjalankan perintah ini untuk menginstal MAME:</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Oracle Java Secara Manual di Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/installoraclejava/</link>
+      <pubDate>Sat, 29 Sep 2012 16:18:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installoraclejava/</guid>
+      <description>Nah, sudah ada PPA yang berisi script instalasi Oracle Java di Ubuntu. Script ini secara otomatis men-download installer dari situs Oracle, menginstalnya pada komputer, dan akhirnya mengkonfigurasi sebagai default JVM pada Ubuntu.
+Menggunakan script installer adalah cara termudah untuk menyelesaikan sesuatu, tetapi dalam kasus Anda tidak percaya script yang dapat merusak sistem Anda, Anda masih dapat menginstal Oracle Java secara manual. Anda melakukan semua hal ini sendiri.
+Mendownload biner</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Jadwal Rilis Ubuntu 13.04</title>
+      <link>https://suryadhi.web.id/artikel/jadwalrilisubuntu/</link>
+      <pubDate>Fri, 28 Sep 2012 05:35:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/jadwalrilisubuntu/</guid>
+      <description>Ubuntu 12.10 Quetzal Quantal akan dirilis pada tanggal 18 Oktober 2012. Jelas, banyak pengguna Ubuntu akan menunggu untuk saat ini dan untuk melihat apa yang baru dari rilis Ubuntu.
+Ubuntu akan merilis versi baru setiap enam bulan dan menerbitkan jadwal rilis awal sebelum pembuatan dimulai. Dalam posting singkat hari ini, saya ingin berbagi jadwal rilis Ubuntu 13.04 &#34;R&#34;, meskipun nama kode Ubuntu 13.04 ini belum diputuskan.
+
+Jadwal Rilis Ubuntu 13.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Fitur Terbaru Full Circle Magazine</title>
+      <link>https://suryadhi.web.id/artikel/circlemagazine/</link>
+      <pubDate>Sun, 23 Sep 2012 18:59:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/circlemagazine/</guid>
+      <description>Full Circle Magazine adalah majalah bulanan gratis dan independen yang berdedikasi untuk memberikan berita terbaru, tips, dan trik tentang Ubuntu. Full Circle Magazine menambahkan fitur baru &#34;Send to Ubuntu One&#34; ke setiap halaman download edisi #51 sampai #64.
+
+Sekarang Anda dapat memilih tombol baru &#34;Send to Ubuntu One&#34; (seperti yang ditunjukkan di atas) untuk memberikan masalah langsung ke akun Ubuntu One Anda. Tentu saja, Anda harus memiliki akun Ubuntu One untuk menggunakan fitur ini, jika Anda belum memilikinya, klik di sini untuk mendaftar akun Ubuntu One.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Pasang Repositori VirtualBox Untuk openSUSE</title>
+      <link>https://suryadhi.web.id/artikel/repositorivirtualboxopensuse/</link>
+      <pubDate>Sat, 22 Sep 2012 05:22:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/repositorivirtualboxopensuse/</guid>
+      <description>Sudahkah Anda mencoba VirtualBox versi 4.2 di Linux Anda? Kali ini saya akan memberikan tutorial bagaimana memasang Repositori VirtualBox di OpenSUSE, mari kita simak bersama.
+Pasang Repositori VirtualBox di OpenSUSE:
+1. Menggunakan Terminal:
+Tambahkan repo untuk openSUSE
+zypper ar -f -n http://download.virtualbox.org/virtualbox/rpm/opensuse/11.4/ Virtualbox
+Kemudian cari virtualbox packages
+linux-f2f1:~ # zypper search virtualbox Loading repository data... Warning: Repository &#39;openSUSE-12.2-Update-Non-Oss&#39; appears to outdated. Consider using a different mirror or server. Reading installed packages.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Cinnamon 1.6 di Ubuntu 12.04 &amp; 12.10</title>
+      <link>https://suryadhi.web.id/artikel/installcinnamon16/</link>
+      <pubDate>Thu, 20 Sep 2012 05:55:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installcinnamon16/</guid>
+      <description>Cinnamon adalah desktop default di Linux Mint. Cinnamon 1.6 telah dirilis pada tanggal 18 September 2012 dengan fitur keren dan inovatif baru. Fitur apa saja yang terdapat pada Cinnamon terbaru ini? Di bawah ini merupakan Fitur terbaru dari dekstop ini, mari kita simak bersama.
+Workspace OSD
+Anda dapat menambahkan ruang kerja dengan mengklik &#34;+&#34; plus tombol. Perubahan ini bersifat permanen meskipun Anda log off atau reboot komputer.
+
+Alt-Tab Switcher with Thumbnail and Window Preview</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Mencoba PHP5-FPM Dengan Apache2 di Fedora 17 Part 2</title>
+      <link>https://suryadhi.web.id/artikel/php5fpmapache2fedora2/</link>
+      <pubDate>Tue, 18 Sep 2012 18:33:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/php5fpmapache2fedora2/</guid>
+      <description>Berikut ini adalah postingan lanjutan dari postingan kami yang berjudul &#34;Menjajal PHP5-FPM Dengan Apache2 di Fedora 17 Part 1&#34;. Mari kita simak lanjutannya.
+6. Konfigurasi Apache
+Untuk membuat Apache bekerja sama dengan PHP-FPM, kita perlu konfigurasi sebagai berikut:
+&amp;lt;IfModule mod_fastcgi.c&amp;gt;DirectoryIndex index.html index.shtml index.cgi index.phpAddHandler php5-fcgi .phpAction php5-fcgi /php5-fcgiAlias /php5-fcgi /usr/lib/cgi-bin/php5-fcgiFastCgiExternalServer /usr/lib/cgi-bin/php5-fcgi -host 127.0.0.1:9000 -pass-header Authorization
+&amp;lt;/IfModule&amp;gt;
+
+(Untuk mempelajari lebih lanjut tentang direktif FastCgiExternalServer, lihatlah http://www.fastcgi.com/mod_fastcgi/docs/mod_fastcgi.html #FastCgiExternalServer.)
+Anda dapat memasukkannya ke dalam konfigurasi Apache global (sehingga itu diaktifkan untuk semua vhosts), misalnya di / etc / httpd / conf.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Mencoba PHP5-FPM Dengan Apache2 di Fedora 17 Part 1</title>
+      <link>https://suryadhi.web.id/artikel/php5fpmapache2fedora1/</link>
+      <pubDate>Tue, 18 Sep 2012 17:59:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/php5fpmapache2fedora1/</guid>
+      <description>Tutorial ini menunjukkan bagaimana Anda dapat memasang webserver Apache2 pada server Fedora 17 dengan PHP5 (melalui PHP-FPM) dan dukungan MySQL. PHP-FPM (FastCGI Process Manager) merupakan alternatif PHP FastCGI implementasi dengan beberapa fitur tambahan yang berguna untuk situs dari berbagai ukuran, terutama situs sibuk. Saya tidak mengeluarkan jaminan bahwa ini akan bekerja untuk Anda!
+1. Pendahuluan Catatan
+Dalam tutorial ini saya menggunakan server1.example.com nama host dengan alamat IP 192.168.0.100. Pengaturan ini mungkin berbeda untuk Anda, jadi Anda harus mengganti mereka di mana perlu.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Memperkenalkan Linux Deepin</title>
+      <link>https://suryadhi.web.id/artikel/linuxdeepin/</link>
+      <pubDate>Sat, 15 Sep 2012 16:37:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/linuxdeepin/</guid>
+      <description>Linux Deepin (sebelumnya Hiweed GNU / Linux) adalah distribusi linux dari Cina berbasis Ubuntu yang&amp;nbsp;mudah digunakan alias easy.&amp;nbsp;Fitur-fiturnya meliputi pra-dikonfigurasi aplikasi Cina, seperti metode input Cina, office suite LibreOffice,&amp;nbsp;kamus Cina-Inggris dan Inggris-Cina, dan font TrueType Cina.
+Linux ini telah disesuaikan dengan GNOME 3 desktop dan sejumlah perangkat tambahan. Yang paling menarik dari Linux Deepin ini adalah Software Center Deepin yang bukan hanya re-skin Ubuntu Software Center, tetapi membangun kembali dengan fitur yang lebih lengkap.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Memperkenalkan Peppermint OS</title>
+      <link>https://suryadhi.web.id/artikel/peppermintos/</link>
+      <pubDate>Sat, 15 Sep 2012 05:40:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/peppermintos/</guid>
+      <description>Peppermint OS adalah distribusi Linux berbasis Lubuntu. Ini bertujuan untuk menjadi cepat, mudah digunakan, dan siap untuk web. Peppermint menggunakan &#34;Ice&#34; teknologi yang diciptakan oleh Kendall Weaver, pencipta Peppermint OS. Dengan teknologi Es, Peppermint OS dapat mengintegrasikan mulus dengan Cloud dan aplikasi berbasis web.
+Peppermint OS menggunakan LXDE sebagai lingkungan desktop. Muncul dengan Cloud dan aplikasi berbasis internet, seperti Chromium untuk browser web, Pixlr Image Editor, Facebook, last.fm, Google Docs, YouTube, Google Mail, dan banyak lagi!</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install GLPI di Server Ubuntu 12.04</title>
+      <link>https://suryadhi.web.id/artikel/installglpiserverubuntu/</link>
+      <pubDate>Thu, 13 Sep 2012 12:11:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installglpiserverubuntu/</guid>
+      <description>GLPI singkatan dari &#34;Gestionnaire libre de parc informatique&#34;, GLPI adalah Sumber Daya Information Manager dengan tambahan Administrasi-Interface. Anda dapat menggunakannya untuk membangun database dengan inventarisasi untuk perusahaan Anda (komputer, software, printer ...).
+GLPI memiliki fungsi yang disempurnakan untuk membuat kehidupan sehari-hari bagi administrator lebih mudah, seperti sistem kerja pelacakan dengan surat-pemberitahuan dan metode untuk membangun sebuah database dengan informasi dasar tentang topologi jaringan-Anda.
+Instal GLPI di Server Ubuntu 12.04</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install VLMC (VideoLAN Movie Creator) di Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/vlmcvideolanmoviecreator/</link>
+      <pubDate>Sun, 09 Sep 2012 08:26:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/vlmcvideolanmoviecreator/</guid>
+      <description>Lanjut lagi tutorial kita hari ini, kali ini saya akan berbagi tentang cara menginstal&amp;nbsp;VLMC (VideoLAN Movie Creator). Sebelum kita mulai tutorialnya, mari kita terlusuri dulu apa itu&amp;nbsp;VLMC? &amp;nbsp;VLMC (VideoLAN Movie Creator)&amp;nbsp;adalah non-linear editing software untuk pembuatan video berdasarkan libVLC dan berjalan pada Windows, Linux dan Mac OS X! Ini adalah perangkat lunak bebas didistribusikan di bawah ketentuan GPL v2.
+
+VLMC dilengkapi dengan banyak fitur:&amp;nbsp;
+Ini adalah aplikasi lintas platform, sehingga Anda dapat menggunakannya pada Windows, Linux, dan Mac OS.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Install Banshee Media Player di Ubuntu 12.04</title>
+      <link>https://suryadhi.web.id/artikel/bansheemediaplayer/</link>
+      <pubDate>Sat, 08 Sep 2012 05:38:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/bansheemediaplayer/</guid>
+      <description>Apakah Anda telah memulai sistem Operasi Ubuntu 12.04 Precise Pangolin? Jika sudah, adakah software yang bernama Rhythmbox di sana? Pastinya ada, Rhythmbox adalah sebuah software media player bawaan Ubuntu. Dalam versi-versi terdahulunya hingga sekarang Ubuntu selalu menyertakan Rhythmbox sebagai software media player defaultnya, apakah Anda bosan dengan hal tersebut dan berniat untuk mengganti software tersebut dengan software media player lain?
+Jika hal tersebut ingin Anda lakukan, saya memiliki sebuah alternatif software media player yang patut Anda coba di Ubuntu 12.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Format Junkie di Ubuntu 12.04</title>
+      <link>https://suryadhi.web.id/artikel/installformatjunkieubuntu/</link>
+      <pubDate>Mon, 03 Sep 2012 05:23:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installformatjunkieubuntu/</guid>
+      <description>Format Junkie adalah sebuah Antarmuka grafis Pengguna user-friendly aplikasi dengan banyak pilihan, yang dapat mengkonversi file media ke semua format populer! Integrasi Unity telah diingat.
+Secara khusus, ia memiliki beberapa fitur berikut:
+Audio:&amp;nbsp;Konversi antara format audio: mp3, mp2, wav, ogg, wma, flac, m4r, m4a dan aacVideo:&amp;nbsp;Konversi antara format video: avi, ogv, vob, mp4, vob, flv, 3gp, mpg, mkv, wmvGambar:&amp;nbsp;Konversi antara format gambar: jpg, png, ico, bmp, svg, tif, PCX, pdf, tga, pnmIso:&amp;nbsp;Buat iso dengan file yang dipilih, mengkonversi iso ke cso dan sebaliknya.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install LibreOffice 3.6 di Ubuntu 12.04</title>
+      <link>https://suryadhi.web.id/artikel/installlibreoffice/</link>
+      <pubDate>Sun, 02 Sep 2012 02:53:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installlibreoffice/</guid>
+      <description>LibreOffice 3.6 telah dirilis beberapa hari lalu, tapi sayangnya&amp;nbsp;repositori belum&amp;nbsp;datang ke Ubuntu. Atau, jika Anda tidak bisa menunggu repositori Ubuntu untuk memperbarui LibreOffice, Anda dapat menggunakan LibreOffice PPA resmi untuk menginstal versi terbaru.
+Jadi, apa yang baru di LibreOffice 3.6? Berikut adalah beberapa di antaranya:
+Dukungan untuk skala warna dan bar data. Impor dari xlsx dan. Impor / ekspor dari / ke. Ods di ODF 1.2 (diperpanjang). Peringatan: Beberapa keterbatasan masih berlaku yang akan diperbaiki di 3.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Install Mozilla Firefox 15 di Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/installmozillafirefox15/</link>
+      <pubDate>Fri, 31 Aug 2012 05:03:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/installmozillafirefox15/</guid>
+      <description>Akhirnya setelah penantian panjang, Mozilla Firefox 15 kini telah dirilis.&amp;nbsp;Ada banyak perubahan dan perbaikan dalam rilis ini. Berikut adalah beberapa fitur baru, perubahan, dan perbaikan dari Mozilla Firefox 15:
+Diam / background updateDukungan untuk jaringan protokol SPDY v3WebGL perangkat tambahan, termasuk dikompresi tekstur untuk performa yang lebih baikMemori Dioptimalkan penggunaan pengayaHTML5: The audio dan video elemen sekarang mendukung atribut dimainkanUntuk daftar lengkap perubahan dari rilis ini silakan klik di sini.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Install VirtualBox 4.1.20 di Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/virtualboxubuntu/</link>
+      <pubDate>Sat, 25 Aug 2012 06:09:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/virtualboxubuntu/</guid>
+      <description>Beberapa waktu yang lalu, VirtualBox telah hadir dalam versi terbarunya, yaitu VirtualBox 4.1.20. Oracle, yaitu perusahaan yang merilis VirtualBox mengatakan bahwa rilisan kali ini merupakan rilis pemeliharaan terjadwal yang dirancang untuk meningkatkan stabilitas, itu tersedia untuk semua platform yang didukung.
+Apa yang baru di virtualbox 4.1.20?
+VMM: crash tetap dalam keadaan langka untuk VMs berjalan tanpa virtualisasi hardwareVMM: fixed analisis kode bug untuk instruksi perpindahan tertentu untuk VMs berjalan tanpa virtualisasi hardwareVMM: fixed bug interpretion untuk TPR membaca instruksi dalam kondisi langka (AMD-V saja)Snapshots: tetap crash ketika mengembalikan sebuah snapshot tua ketika mematikan VM (bug # 9604, # 10491)VBoxSVC: lebih toleran terhadap variabel lingkungan dengan pengkodean aneh (bug # 8780)VGA: tetap memeriksa akses yang salah yang mungkin menyebabkan kecelakaan dalam kondisi tertentuNAT: memperbaiki akhir untuk crash dalam kondisi langka (bug # 10.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Pasang MongoDB di Ubuntu 12.04</title>
+      <link>https://suryadhi.web.id/artikel/mongodb/</link>
+      <pubDate>Tue, 21 Aug 2012 07:29:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/mongodb/</guid>
+      <description>Tutorial kami kali ini adalah tutorial&amp;nbsp; dengan topik &#34;Memasang MongoBD&#34;. Ngomong-ngomong, apa itu MongoDB? MongoDB (dari &#34;humongous&#34;) adalah sebuah open source berorientasi dokumen NoSQL Database system. MongoDB merupakan bagian dari keluarga NoSQL sistem database. Daripada menyimpan data dalam tabel seperti yang dilakukan dalam database &#34;klasik&#34; ​​relasional, MongoDB menyimpan data terstruktur seperti JSON-seperti dokumen dengan skema dinamis (MongoDB menyebut BSON format), membuat integrasi data dalam beberapa jenis aplikasi lebih mudah dan lebih cepat.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Pasang Nvidia Unix Driver 304.37 di Ubuntu dan Mint</title>
+      <link>https://suryadhi.web.id/artikel/nvidiaunixdriver30437/</link>
+      <pubDate>Tue, 21 Aug 2012 04:31:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/nvidiaunixdriver30437/</guid>
+      <description>Nvidia sedang giat-giatnya diperbarui, terbukti dengan hadirnya versi terbaru dari Nvidia yaitu Nvdia versi 304.37. Versi terbaru dari Nvidia ini memiliki beberapa dukungan untuk GPU, berikut ini dukungannya:
+GeForce GTX 680MQuadro K1000MQuadro K2000MTesla K10
+Selain itu, Nvidia versi terbaru ini telah melewati beberapa tahap pembaharuan dan perbaikan, Anda dapat melihat apa saja yang telah diperbarui dan diperbaiki di sini.&amp;nbsp;Dalam tutorial ini kita akan menunjukkan cara untuk menginstal driver Nvidia Unix 304,37 di Ubuntu/Linux Mint.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Y PPA Manager, Solusi Mudah Mencari PPA</title>
+      <link>https://suryadhi.web.id/artikel/yppamanager/</link>
+      <pubDate>Sun, 19 Aug 2012 04:23:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/yppamanager/</guid>
+      <description>Apakah Anda sedang mencari PPA untuk Ubuntu Anda dan Anda sedang kebingungan untuk melakukannya? Kebingungan itu dapat Anda remove dari pikiran Anda, karena kali ini saya punya solusi yang dapat meremove rasa bingung Anda tersebut. Solusi tersebut adalah Anda diharuskan untuk menginstal sebuah aplikasi yang bernama &#34;Y PPA Manager&#34;,&amp;nbsp;apa itu Y PPA Manager?
+Y PPA Manager adalah tool untuk mempermudah mencari paket di Launchpad PPA dan melakukan berbagai tindakan PPA: menambah, menghapus, pembersihan, backup PPA dan banyak lagi.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Memasang Cairo Dock di Linux Mint</title>
+      <link>https://suryadhi.web.id/artikel/cairodocklinux/</link>
+      <pubDate>Fri, 17 Aug 2012 04:07:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/cairodocklinux/</guid>
+      <description>Yo, kali ini saya akan berbagi tentang secarik ilmu bagi Anda yang sedang bergelut dengan Operating System yang bernama Linux Mint. Topik kali ini yaitu cara memasang/ menginstal Cairo Dock di Linux Mint. Cairo Dock sendiri merupakan salah satu tampilan desktop yang menarik. Fitur yang terdapat di dalamnya memberi kemudahan sekaligus memanjakan users dengan beragam fasilitas yang menarik.
+
+Cairo-Dock telah diperbarui ke versi 3.0. (versi terbaru stable version 3.0.2). Berikut adalah beberapa perubahan baru dalam rilis akhir:</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Menonaktifkan Laporan Apport di Ubuntu 12.04</title>
+      <link>https://suryadhi.web.id/artikel/apportubuntu/</link>
+      <pubDate>Thu, 16 Aug 2012 19:06:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/apportubuntu/</guid>
+      <description>Bagi kamu pengguna Linux Ubuntu 12.04 yang mungkin pernah mendapati pesan pop up di Ubuntu yang seperti ini&amp;nbsp;&#34;Ubuntu 12.04 has experienced an internal error&#34; dan kamu yakin bahwa tidak ada kesalahan pada Ubuntu yang sedang kamu gunakan. Kamu dapat menonaktifkan pelaporan Apport tersebut pada dengan trik sederhana berikut ini.
+
+Nah, jika kamu merasa terganggu dengan pop up seperti gambar di atas, kamu dapat membuka Terminal, kemudian mengetikkan perintah berikut:sudo gedit /etc/default/apport</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - GIMP 2.8 resmi dirilis (GIMP 2.8 final PPA telah tersedia)</title>
+      <link>https://suryadhi.web.id/artikel/gimp28/</link>
+      <pubDate>Thu, 16 Aug 2012 16:27:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/gimp28/</guid>
+      <description>Anda pengguna Ubuntu tentunya mengenal apa itu GIMP, GIMP adalah sebuah software grafis standar yang selalu menyertai OS Ubuntu, baik versi terbaru dari Ubuntu tau versi lamanya. Kali ini bagi Anda pengguna Ubuntu, ada berita gembira untuk Anda yaitu telah dirilisnya GIMP 2.8. GIMP 2.8 ini membawa sejumlah fitur baru yang solid dan mengesankan refactoring, perbaikan dan perangkat tambahan.
+Apa yang baru di GIMP 2.8?
+Permintaan baru modus satu jendela, modus yang menempatkan semua elemen GIMP menjadi antarmuka tunggal, lebih mudah untuk bergerak dan bekerja dengan (mengaktifkannya di bawah GIMP -&amp;gt; Windows -&amp;gt; centang Single-Jendela Mode)Save / Save As sekarang gagal untuk XCF (format gambar asli GIMP), untuk menjaga (atau perubahan) format aslinya (seperti misalnya, PNG) saat mengedit gambar, Ekspor harus digunakan (GIMP -&amp;gt; File--&amp;gt; Ekspor)&#34;</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Install Deepin Software Center di Ubuntu 12.04</title>
+      <link>https://suryadhi.web.id/artikel/deepinsoftwarecenter/</link>
+      <pubDate>Sun, 12 Aug 2012 20:39:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/deepinsoftwarecenter/</guid>
+      <description>Deepin Software Center atau dikenal dengan DSC adalah aplikasi pembunuh dari Linux Deepin. Hanya saja seperti Ubuntu Software Center dengan beberapa tambahan seperti download paralel, melanjutkan download, pembaruan pemberitahuan, pembersihan cache, dan&amp;nbsp;colorful skins&amp;nbsp;yang dapat Anda ubah seperti perubahan suasana hati Anda.
+Deepin Software Center menggunakan mesin aria2 untuk melakukan multi-threaded alias download paralel sehingga kita akan mendapatkan pengalaman download yang lebih cepat (tergantung pada koneksi jaringan Anda). Deepin Software Center merupakan alternatif bagi mereka yang ingin membuat suatu pengalaman men-download dan mengelola aplikasi di Ubuntu, dengan penambahan 8 pra-instal&amp;nbsp;colorful skins, sehingga Anda dapat memilih salah satu yang mencerahkan hari Anda!</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Buku Manual Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/bukumanualubuntu/</link>
+      <pubDate>Sun, 12 Aug 2012 16:19:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/bukumanualubuntu/</guid>
+      <description>Jika Anda baru mengenal Operating System Ubuntu dan tidak tahu bagaimana untuk memulai dengan OS tersebut, saya sarankan Anda untuk membaca buku manual Ubuntu.
+Buku ini berjudul &#34;Getting Started with Ubuntu 12.04&#34;, buku manual ini adalah panduan komprehensif untuk para pemula Ubuntu. Panduan ini akan membantu Anda memulai dan menjadi akrab dengan Linux Ubuntu.
+Mengapa saya harus membaca buku ini?
+Alasan utama adalah buku ini gratis! Anda dapat mengunduh dan berbagi ke teman Anda.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Memasang Gamecaster di Linux Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/gamecaster/</link>
+      <pubDate>Sun, 12 Aug 2012 04:15:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/gamecaster/</guid>
+      <description>Apakah Anda mempunyai niat untuk merekam game yang sedang Anda mainkan di Linux, khususnya Ubuntu? Jika niatan itu ada dalam diri Anda, Anda dapat melakukannya dengan menggunakan sebuah software yang bernama &#34;Gamecaster&#34;.
+Gamecaster merupakan software yang memiliki fungsi menangkap rekaman real time dari setiap game Linux yang menggunakan ALSA untuk suara dan OpenGL untuk gambar.
+Software ini memiliki beberapa fitur yang menarik, berikut ini di antaranya:Menangkap video HD game Linux yang menggunakan akselerasi OpenGLPilih biner game atau memilih salah satu permainan yang terinstal untuk mulai merekamGLC file player.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Mengubah Tema Login Screen Ubuntu 12.04</title>
+      <link>https://suryadhi.web.id/artikel/loginscreenubuntu/</link>
+      <pubDate>Sun, 05 Aug 2012 15:13:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/loginscreenubuntu/</guid>
+      <description>Pada saat setelah Anda menginstal Linux Ubuntu 12.04, apakah terpikir di benak Anda untuk mengganti tampilan Login Screen pada OS tersebut? Jika Anda memikirkan hal tersebut akan tetapi bingung bagaimana caranya, kami punya solusinya. Berikut solusi atau cara dari kami, mari kita simak bersama.
+
+Pertama, Anda ketik perintah berikut di Terminal:
+sudo cp /usr/share/applications/gnome-appearance-properties.desktop /usr/share/gdm/autostart/LoginWindow
+
+Lakukan logout maka kalian akan mendapatkan jendela &#34;Appearance Preferences&#34; pada login screen. Seperti biasa, kalian bisa mengubah wallpaper, tema GTK, ikon, dan lain-lain lewat jendela ini.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Memasang Dolphin Game Emulator di Ubuntu/ Mint</title>
+      <link>https://suryadhi.web.id/artikel/dolphingameemulator/</link>
+      <pubDate>Sun, 05 Aug 2012 03:49:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/dolphingameemulator/</guid>
+      <description>Apakah di komputer atau di laptop Anda, Anda memakai Linux, khususnya Ubuntu atau Mint? Jika iya, apa game-game yang tersedia menarik minat Anda untu memainkannya. Saya rasa tidak, apa Anda tertarik memainkan sebuah game dari nitendo Wii di Ubuntu atau Linux Mint Anda? Jika ia, saya punyta solusinya. Di sini kita akan memakai Dolphin Game Emulator.
+Dolphin Game Emulator adalah open-source Nintendo GameCube, Wii, dan Triforce emulator untuk Microsoft Windows, Linux, dan Mac OS X (berbasis Intel).</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Coba Ubuntu WebApps</title>
+      <link>https://suryadhi.web.id/artikel/ubuntuwebapps/</link>
+      <pubDate>Fri, 03 Aug 2012 16:52:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/ubuntuwebapps/</guid>
+      <description>Agan-agan pastinya telah mengenal apa itu Ubuntu WebApps, yah Ubuntu WebApps adalah sebuah fitur yang dibuat dan dikembangkan untuk mendukung tampilan Ubuntu 12.10 Quantal Quetzal.&amp;nbsp;Dengan Ubuntu webapps websites seperti Gmail, Grooveshark, Last.fm, Facebook, Google Docs dan banyak lagi yang terintegrasi dengan desktop Ubuntu.
+Webapps ini sepenuhnya terintegrasi dengan Unity HUD, Sound &amp;amp; Messaging notifications menu dan dukungan Unity Quicklists.&amp;nbsp;Webapps dapat digunakan dengan berbagai cara menarik, dan kemungkinan tidak terbatas. Untuk saat ini Ubuntu WebApps masih dalam tahap pengembangan dan akan dirilis secara default bersama dengan dirilisnya Ubuntu 12.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Mencoba Firefox OS di Linux Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/firefoxoslinux/</link>
+      <pubDate>Fri, 03 Aug 2012 02:58:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/firefoxoslinux/</guid>
+      <description>&#34;Firefox&#34;, pasti jika Anda mendengar kata tersebut Anda akan berpikir tentang sebuah software peramban web yang bernama lengkap &#34;Mozilla Firefox&#34;. Kini Firefox tidak hanya digunakan sebagai sebuah nama software peramban web namun juga digunakan sebagai nama OS smartphone, kok bisa gitu sih?
+Ya, bisa-bisa ajalah karena sekarang Mozilla telah membuat dan mengembangkan sebuah OS smartphone yang bernama &#34;Firefox OS&#34;. Firefox OS atau yang masih diberi nama kode &#34;Boot to Gecko&#34;</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Tampilan Gnome OS</title>
+      <link>https://suryadhi.web.id/artikel/gnomeos/</link>
+      <pubDate>Thu, 02 Aug 2012 17:33:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/gnomeos/</guid>
+      <description>Gnome OS
+Kali ini Gnome sedang dihadapkan pada sebuah proyek mandiri yaitu dengan membuat distribusi OS sendiri. Ya sebelumnya Gnome hanyalah dekstop environment yang hampir dipakai oleh sistem operasi Linux. Seperti misalnya Fedora, Linux Mint, Ubuntu(walaupun sekarang memakai Unity)&amp;nbsp;dan lain-lain.
+Bagi yang ingin tahu apa itu Gnome OS, berikut ini penjelasannya:
+“There’s a lot of confusion around GNOME OS. People assume that it means that GNOME will be launching its own distribution, but that’s not what GNOME OS is about.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Mengganti Plymouth Theme di Ubuntu</title>
+      <link>https://suryadhi.web.id/artikel/plymouththemeubuntu/</link>
+      <pubDate>Thu, 02 Aug 2012 14:26:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/plymouththemeubuntu/</guid>
+      <description>Pas lagi ngeremaster ubuntu gak lengkap rasanya kalo plymouthnya gak kita ganti. Kalau kita ganti ama plymouth kreasi sendiri rasanya puas and pastinya bangga, hehehe.... Oke, kali ini ane mau ngasih info tentang cara mengganti Plymouth di Ubuntu. Sebelum ane kasih tau caranya, ane mau ngejelasin apa itu plymouth?
+Plymouth adalah tampilan boot splash pada saat memulai Ubuntu seperti pada gambar dibawah ini.
+
+Tersedia berbagai macam theme plymouth yang bisa diinstall dari repository dan langsung bisa digunakan, berikut ini caranya :</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Menginstal Remastersys di Ubuntu 12.04</title>
+      <link>https://suryadhi.web.id/artikel/remastersysubuntu/</link>
+      <pubDate>Thu, 02 Aug 2012 14:14:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/remastersysubuntu/</guid>
+      <description>Bagi agan-agan yang lagi giat-giatnya berkecimpung di dunia linux dan sedang punya proyek remaster linux khususnya meremaster linux Ubuntu, saya punya alternatif agar proyek agan tersebut berhasil alias succes. Saya sendiri di sini juga sedang dihadapan pada sebuah proyek remaster, saya menggunakan sebuah software yang bernama Remastersys. Saya akan memberikan info tentang cara menginstal software ini, kalau agan-agan mau instal juga, bisa dilihat caranya di bawah ini.
+
+Cara install remastersys pada ubuntu 12.</description>
+    </item>
+    
+  </channel>
+</rss>

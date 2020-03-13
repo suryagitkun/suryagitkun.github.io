@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogger on Suryablog - Life Journal as a Noob People</title>
+    <link>https://suryadhi.web.id/tags/blogger/</link>
+    <description>Recent content in blogger on Suryablog - Life Journal as a Noob People</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jan 2020 11:36:26 +0700</lastBuildDate>
+    
+	<atom:link href="https://suryadhi.web.id/tags/blogger/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NgeShare - Cara Membatasi Seleksi Teks di Artikel Web/ Blog</title>
+      <link>https://suryadhi.web.id/artikel/membatasi-seleksiteks/</link>
+      <pubDate>Thu, 23 Jan 2020 11:36:26 +0700</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/membatasi-seleksiteks/</guid>
+      <description>Pada kesempatan kali ini, saya ingin membagikan tutorial mengenai cara membatasi seleksi teks di artikel web atau blog. Jadi, melalui tutorial ini nantinya kita buat visitor yang mungkin ingin mengcopy paste isi dari artikel web/ blog hanya dapat menyeleksi teks tertentu saja. Baik, untuk tutorialnya, pertama pasang kode script di bawah ini.
+-webkit-touch-callout:none; -khtml-user-select:none; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none;  Pasang kode script tersebut ke dalam elemen &#34;post&#34; yang ada di html template web/ blog.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Migrasi Blog Dari Blogger ke Hugo</title>
+      <link>https://suryadhi.web.id/artikel/bloghugo/</link>
+      <pubDate>Tue, 24 Dec 2019 08:05:39 +0700</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/bloghugo/</guid>
+      <description>Setelah hampir 7 tahun lebih (sejak 02/08/2012) saya berkecimpung di dunia perblogan duniawi menggunakan platform/ CMS &#34;Blogger&#34;, akhirnya hari ini, saya memantapkan diri untuk move on. Ya, move on, alias migrasi dari platform tersebut. Hal ini mantap saya lakukan, karena selain menyadari adanya kelemahan di platform yang telah saya gunakan sebelumnya ini, juga karena adanya godaan setelah membaca beberapa artikel online yang membahas mengenai SSG (Static Site Generator).   Saya kemudian merasa tertarik untuk mencoba menggunakan SSG yang digunakan sebagai hosting blog, dan SSG yang telah saya pilih adalah &#34;</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Membuat Sticky Sidebar di Blog Menggunakan CSS</title>
+      <link>https://suryadhi.web.id/artikel/stickysidebar/</link>
+      <pubDate>Fri, 13 Sep 2019 09:52:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/stickysidebar/</guid>
+      <description>Hmmm...rasa-rasanya sudah cukup lama saya tidak menuliskan sesuatu di blog ini. Yah, mohon maklum, karena rutinitas sebagai seorang freelancer sekaligus jobseeker, membuat saya sejenak vakum dari blog ini (ceileh). Namun, mumpung hari ini sedang tidak ada deadline maupun jadwal wawancara kerja, dan juga ada sedikit bahan untuk ditulis, maka saya menyempatkan waktu untuk mengupdate artikel di blog ini.
+Oke, jadi, pada kesempatan kali ini, saya mengupdate artikel di blog ini dengan topik, yaitu tutorial “Cara Membuat Sticky Sidebar di Blog Menggunakan CSS” tanpa javascript.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Memasang Efek Hover RubberBand di Icon Sidebar Blog</title>
+      <link>https://suryadhi.web.id/artikel/hoverrubberband/</link>
+      <pubDate>Wed, 08 May 2019 05:52:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/hoverrubberband/</guid>
+      <description>Yossshaaa! Pada kesempatan kali ini, saya akan membagikan tutorial mengenai cara memasang efek hover rubberBand di icon sidebar blog. Oh, iya, btw, apa itu efek hover rubberBand? Oke, efek hover rubberBand itu merupakan efek yang dapat mengubah warna sekaligus dapat menimbulkan efek memantul pada suatu objek atau elemen di blog atau website. Untuk lebih jelasnya mengenai efek hover ini, mungkin alangkah baiknya kamu melihat terlebih dahulu contohnya dengan menekan tombol result di bawah ini.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Memasang Font Google Sans di Blog</title>
+      <link>https://suryadhi.web.id/artikel/fontgooglesans/</link>
+      <pubDate>Sun, 05 May 2019 18:59:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/fontgooglesans/</guid>
+      <description>Pada kesempatan kali ini, saya ingin membagikan tutorial mengenai cara memasang font Google Sans di blog. Bila kamu sedang memiliki keinginan untuk mempercantik tampilan blogmu, barangkali font ini dapat kamu gunakan sebagai referensi. Oke, tanpa banyak basa basi, langsung saja ikuti langkahnya berikut ini.
+
+Cara Memasang Font Google Sans di Blog
+Langkah pertama, kamu copy kode css di bawah ini.
+/* Fonts */
+@font-face{font-family:&#39;Google Sans&#39;;font-style:normal;font-weight:400;src:local(&#39;Google Sans Regular&#39;),local(GoogleSans-Regular),url(//fonts.gstatic.com/s/googlesans/v5/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2) format(&#34;woff2&#34;);unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:&#39;Google Sans&#39;;font-style:normal;font-weight:400;src:local(&#39;Google Sans Regular&#39;),local(GoogleSans-Regular),url(//fonts.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Memasang Icon SVG di Posting Blog</title>
+      <link>https://suryadhi.web.id/artikel/iconsvgblog/</link>
+      <pubDate>Wed, 03 Apr 2019 16:35:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/iconsvgblog/</guid>
+      <description>SVG (Scalable Vector Graphics) merupakan format gambar yang menggunakan XML sebagai dasar untuk membentuk gambar vektor dua dimensi. Proyek yang telah dikembangkan oleh W3C (Word Wide Web Consortium) sejak tahun 1999 ini, memiliki ukuran yang lebih kecil dan dapat dikompresi bila dibandingkan dengan format gambar JPEG dan GIF. Selain itu, SVG memiliki sifat yang scalable atau dapat diresizing.
+
+Ngomong-ngomong soal SVG, pada kesempatan kali ini, saya akan membagikan beberapa kode icon SVG yang dapat kamu pasang di postingan blogmu dan hasilnya icon tersebut ada di bawah ini.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Menampilkan dan Menyembunyikan Widget atau Elemen di Blog</title>
+      <link>https://suryadhi.web.id/artikel/widgetelemenblog/</link>
+      <pubDate>Sat, 09 Feb 2019 08:05:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/widgetelemenblog/</guid>
+      <description>Buat kamu yang lagi main blog, terutama yang memakai platform dari blogger, apakah kamu pernah memiliki keinginan untuk menyembunyikan dan menampilkan widget atau elemen di blogmu. Ya, menampilkan dan menyembunyikan, seperti misalnya membuat sebuah widget atau elemen di blogmu tidak terlihat di homepage blog dan hanya dapat terlihat di postpage saja. Jika kamu memiliki keinginan seperti itu, berikut ini saya akan membagikan tutorial untuk melakukan hal tersebut dengan menggunakan beberapa kode yang dapat kamu pasang di template blogmu.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Memasang Tabel Responsive di Artikel Blog</title>
+      <link>https://suryadhi.web.id/artikel/tabelresponsive/</link>
+      <pubDate>Fri, 08 Feb 2019 08:04:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/tabelresponsive/</guid>
+      <description>Dalam menulis artikel, tidak jarang kita menjumpai artikel yang di dalamnya memuat data-data yang tersaji pada sebuah tabel. Hal itu dilakukan dengan tujuan agar dapat memberikan informasi yang menarik dan memberi pemahaman kepada pembaca dengan lebih detail. Tabel yang digunakan dalam sebuah artikel biasanya dibuat dengan sederhana agar pembaca dapat memahami informasi data di dalamnya dengan mudah. Nah, ngomong-ngomong soal tabel, pada kesempatan kali ini saya akan memberikan tutorial mengenai cara memasang tabel responsive di artikel blog.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Memasang Icon di Samping Judul Widget Blog</title>
+      <link>https://suryadhi.web.id/artikel/iconjudulwidgetblog/</link>
+      <pubDate>Fri, 11 Jan 2019 08:37:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/iconjudulwidgetblog/</guid>
+      <description>Yosh! Pada kesempatan kali ini saya akan membagikan tutorial mengenai cara memasang icon di samping judul widget blog. Oh, iya, icon yang digunakan dalam tutorial ini berasal dari Font Awesome yang pastinya akan mempercantik tampilan blogmu (hehehe...). Oke, tanpa perlu panjang lebar, mari simak tutorialnya berikut ini.
+Versi 1
+Untuk versi 1 ini, yang harus kamu lakukan dalam memasang icon dari FontAwesome di samping judul widget blogmu adalah dengan mengcopy kode di bawah ini.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Memasang Emoji di Judul Artikel Blog 👍</title>
+      <link>https://suryadhi.web.id/artikel/emoji/</link>
+      <pubDate>Tue, 25 Dec 2018 09:50:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/emoji/</guid>
+      <description>Yosh! Pada kesempatan kali ini, saya akan membagikan tutorial tentang cara memasang emoji di judul artikel blog. Emang bisa, Min? Bukannya cuma bisa dipasang di bagian isi artikelnya aja ya? Bisa kok, buktinya di judul artikel tutorial ini ada emojinnya, so pasti bisa (hehehe...). Emang itu caranya gimana, Min? Caranya? Tenang, mari kita simak tutorial berikut ini.
+Oke, langkah pertama untuk dapat memasang emoji pada judul artikel blog adalah kamu harus memiliki artikel yang sudah siap untuk dipublikasikan di blogmu.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Memasang Tombol Reaksi di Blog</title>
+      <link>https://suryadhi.web.id/artikel/tombolreaksiblog/</link>
+      <pubDate>Thu, 29 Nov 2018 05:28:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/tombolreaksiblog/</guid>
+      <description>Oke, pada kesempatan kali ini, saya akan membagikan tutorial mengenai cara memasang tombol reaksi di blog. Tutorial ini nantinya akan menghasilkan tombol reaksi seperti gambar di atas. Oh, iya, tombol reaksi yang akan saya gunakan pada tutorial ini berasal dari ShareThis, so tutorial kali ini lebih tepatnya mengenai cara memasang tombol reaksi dari sharethis di blog (hehehe...). Oke, tanpa perlu panjang lebar, kita simak tutorial, yuk!
+1. Langkah pertama yang harus dilakukan untuk memulai tutorial ini adalah dengan membuka website ShareThis melalui url www.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Pasang Navbar Bootstrap di Blog</title>
+      <link>https://suryadhi.web.id/artikel/navbarbootstrap/</link>
+      <pubDate>Sat, 03 Nov 2018 08:08:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/navbarbootstrap/</guid>
+      <description>Pada kesempatan ini, saya akan membagikan tutorial mengenai cara memasang menu navigasi/ navbar Bootstrap di blog. Navbar Bootstrap ini memiliki tampilan yang simpel/ sederhana dan pastinya responsive atau mobile friendly. Oke, tanpa perlu panjang lebar lagi, mari simak tutorial berikut ini.
+Perhatian: Ketika kamu memasang kode menu navigasi ini, mungkin akan mempengaruhi beberapa tampilan di template blogmu, seperti misalnya berubahnya jenis font, ukuran font, dan lainnya. Hal ini dapat terjadi dikarenakan kode dalam menu navigasi ini memiliki kesamaan pada penamaan tag, class, atau id.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Memasang Tombol Sosial Media di Menu Navigasi Blog</title>
+      <link>https://suryadhi.web.id/artikel/tombolsosialmediablog/</link>
+      <pubDate>Tue, 25 Sep 2018 09:09:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/tombolsosialmediablog/</guid>
+      <description>Apakah kamu ingin memasang tombol sosial media di menu navigasi blog-mu seperti pada tampilan di atas? Kalau iya, keinginan kamu itu dapat diwujudkan dengan memasang script di bawah ini pada elemen menu navigasi di blog milikmu.
+Cara Memasang
+1. Copy script di bawah ini.
+&amp;lt;a href=&#39;LINK-AKUN-FACEBOOKMU&#39;&amp;gt;&amp;lt;img alt=&#39;W3Schools&#39; border=&#39;0&#39; height=&#39;16&#39; src=&#39;https://1.bp.blogspot.com/-sAXNeVXW45M/W3uN4DnxBDI/AAAAAAAARk8/dq2Ufrm1rG0BhviquKy_eEGdotlGm3U8ACLcBGAs/s1600/facebook-logo.png&#39; width=&#39;16&#39;/&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;a href=&#39;LINK-AKUN-INSTAGRAMMU&#39;&amp;gt;&amp;lt;img alt=&#39;W3Schools&#39; border=&#39;0&#39; height=&#39;16&#39; src=&#39;https://1.bp.blogspot.com/-uf-KflqKkyI/W3uN4J8LnpI/AAAAAAAARlE/gpm89iVHplcTa7mUkZWSUDMZEZ0U9I9RwCLcBGAs/s1600/instagram-social-network-logo-of-photo-camera.png&#39; width=&#39;16&#39;/&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;a href=&#39;LINK-AKUN-TWITTERMU&#39;&amp;gt;&amp;lt;img alt=&#39;W3Schools&#39; border=&#39;0&#39; height=&#39;16&#39; src=&#39;https://1.bp.blogspot.com/-v627Fz-RoHw/W3uN4LKQvlI/AAAAAAAARlA/H600ZIH16Gk1teRgAFs0X49fW7VMtaUtQCLcBGAs/s1600/twitter-logo-silhouette.png&#39; width=&#39;16&#39;/&amp;gt;&amp;lt;/a&amp;gt;
+2. Kemudian kamu cari elemen menu navigasi blog-mu pada fitur &#39;Edit HTML&#39;.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Tips Menyembunyikan Blog Pager di Homepage Blog</title>
+      <link>https://suryadhi.web.id/artikel/blogpager/</link>
+      <pubDate>Thu, 17 Mar 2016 07:50:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/blogpager/</guid>
+      <description>Pada kesempatan ini, saya akan membagikan sebuah script yang berfungsi untuk menyembunyikan blog pager atau biasa kita kenal dengan navigasi halaman di homepage blog. Sebelumnya script ini telah saya terapkan pada sebuah toko online milik kawan saya yang menggunakan platform blogger, dan yang kini tengah saya kelola. Bila ada pertanyaan, Mengapa harus menyembunyikan navigasi halaman di homepage blog? Bukankah justru navigasi halaman di homepage akan membantu pembaca dalam mengakses blog kita?</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Memasang Google Maps di Posting Blog</title>
+      <link>https://suryadhi.web.id/artikel/gmapspostblog/</link>
+      <pubDate>Tue, 08 Sep 2015 14:43:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/gmapspostblog/</guid>
+      <description>Mumpung lagi dapat inspirasi nih, pada kesempatan ini saya akan membagikan tutorial tentang cara memasang Google Maps di posting blog. Tutorial ini seperti yang pernah saya aplikasikan di posting/ artikel saya yang berjudul NgeShare - Dolan Jilid 2 &#34;Candi Cetho&#34;, tahap demi tahap sama persis dengan yang ada di tutorial ini tanpa imbuhan apapun, hehehe.... Kalau ada yang penasaran tentang caranya, ya bisalah menyempatkan diri untuk melihat tutorial berikut ini.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Menu Navigasi Tetap Muncul Saat Discroll di Blog</title>
+      <link>https://suryadhi.web.id/artikel/menunavigasiscrollblog/</link>
+      <pubDate>Sat, 01 Aug 2015 05:36:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/menunavigasiscrollblog/</guid>
+      <description>Ini nih yang lagi ngetrend-ngetrendnya di blogger, yaitu tampilan menu navigasi yang kalau setiap kali blog di scroll ke bawah, pasti menu navigasinya akan tetap muncul atau melayang. Berkat blogwalking ke blog atau website sana sini yang menampilkan menu navigasinya seperti itu, saya jadi kepengen untuk mencobanya juga di blog saya ini. Dan alhamdulillah akhirnya berhasil dan tampilan blog menjadi lebih dinamis (kalau menurut saya). Bisa dilihat kan kalau menu navigasi di blog saya ini selalu ada dan melayang kalau setiap kali discroll ke bawah, hehehe.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Selamat Hari Blogger Nasional</title>
+      <link>https://suryadhi.web.id/artikel/haribloggernasional/</link>
+      <pubDate>Mon, 27 Oct 2014 04:04:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/haribloggernasional/</guid>
+      <description>Selamat hari &#34;Blogger Nasional&#34; ya, guys! 😁
+
+Buat yang pengen tahu mengenai sejarah dan perkembangan hari blogger nasional, bisa baca di sini lho. 😁 </description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Memasang (Melekatkan) Tweet di Artikel Blog</title>
+      <link>https://suryadhi.web.id/artikel/tweetblog/</link>
+      <pubDate>Mon, 06 Jan 2014 22:28:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/tweetblog/</guid>
+      <description>Suatu hari, gue lagi mampir ke sebuah blog. Blog seorang penulis yang tulisan-tulisanya keren (menurut gue), yang seorang anak basket yang katanya gak digandrungi, yang nama akun twitternya @landakgaul, yang juga salah satu admin di Nyunyudotcom. Pasti kamu udah tau kan itu siapa? &#34;Dara Prayoga&#34;, ya itulah namanya. Dia juga salah satu penulis favorit gue.
+Ngomong-ngomong pas gue lagi visit ke blognya bang Dara Prayoga, gue kan baca-baca artikelnya yang memang sepertinya cocok buat gue yang masih muda.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Tampilan Edit HTML Template Blogger dari Tahun ke Tahun</title>
+      <link>https://suryadhi.web.id/artikel/edittemplateblogger/</link>
+      <pubDate>Thu, 11 Apr 2013 05:12:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/edittemplateblogger/</guid>
+      <description>Tepatnya telah 3 tahun saya mencurahkan isi pikiran saya ke dalam blog melalui Blogger, ada suka dukanya dalam proses tersebut. Awal pertama kenal Blogger, bingung demi bingung sering kali merundung batin saya, mau nulis apa hari ini? Selain dibungungkan oleh rencana pembuatan artikel, kadang kala saya juga selalu berpikir, widget atau template apa yang harus saya pasang?
+Apa lagi saat ngerti kalau harus memasukkan kode HTML saat edit template, wah ini bahasa apaan, kok gak mudeng?</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Buat Sudut Lengkung Pada Blog</title>
+      <link>https://suryadhi.web.id/artikel/sudutlengkungblog/</link>
+      <pubDate>Wed, 14 Nov 2012 17:25:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/sudutlengkungblog/</guid>
+      <description>Kali ini saya akan membagikan tips bagaimana membuat tampilan pada sudut blogmu menjadi lengkung atau bisa dibilang &#34;rounded corners&#34;. Caranya mudah, kamu hanya perlu menyisipkan kode di bawah ini ke dalam elemen template blogmu. Penerapannya, misalnya saya ingin membuat tampilan sudut &#34;main-wrapper&#34; blog saya menjadi melengkung. Yang harus saya lakukan adalah masuk ke halaman Blogger -&amp;gt; kemudian pilih Template -&amp;gt; Edit HTML.
+Dikarenakan saya akan merubah tampilan sudut &#34;main-wrapper&#34; blog saya menjadi melengkung, maka yang harus saya cari adalah kode HTML #main-wrapper{, agar lebih cepat untuk menemukan kode tersebut kita tekan tombol CTRL+F pada keyboard.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Cara Menghapus Read More Otomatis di Blog</title>
+      <link>https://suryadhi.web.id/artikel/readmoreblog/</link>
+      <pubDate>Fri, 28 Sep 2012 16:26:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/readmoreblog/</guid>
+      <description>Pada kesempatan kali ini, saya aan memberikan sebuah tips di mana tips ini tidak berkaitan dengan Linux atau Open Source melainkan berkaitan dengan blog. Tips berikut adalah tips&amp;nbsp;Cara Menghapus &#34;Read More&#34; Otomatis di Blog. Sering kali kita jumpai tulisan&amp;nbsp;Read More/&amp;nbsp;Baca Selengkapnya&amp;nbsp;pada tampilan blog kita seperti di bawah ini.
+Namun, ada kalanya kita menginginkan tulisan tersebut lenyap dari blog kita. Nah, untuk mewujudkan hal tersebut berikut ini tips dan trick yang sekiranya dapat menyelesaikan masalah Anda tersebut, mari kita simak bersama.</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Pasang Widget Recent Post di Blog [Only Text]</title>
+      <link>https://suryadhi.web.id/artikel/widgetrecentpostonlytext/</link>
+      <pubDate>Thu, 02 Aug 2012 16:06:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/widgetrecentpostonlytext/</guid>
+      <description>Widget Recent Post adalah widget yang menampilkan artikel terbaru dari blog yang kita miliki. Fungsi dari widget ini adalah untuk memberikan informasi bagi pengunjung blog kita tentang artikel yang baru kita publikasikan.
+
+Untuk memasang widget ini seperti biasa kita harus login ke account blogger dan masuk pada tab Rancangan --&amp;gt; Elemen Laman, kemudian tambahkan gadget HTML/Javascript baru danCoPas kode dibawah ini ke gadget baru tersebut :&amp;lt;style scoped=&#39;&#39; type=&#34;text/css&#34;&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>NgeShare - Membuat Efek Bayangan pada Gambar di Posting Blog</title>
+      <link>https://suryadhi.web.id/artikel/gambarpostblog/</link>
+      <pubDate>Thu, 02 Aug 2012 15:15:00 +0000</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/gambarpostblog/</guid>
+      <description>Pada kesempatan kali ini, saya akan memberikan tutorial untukmu yang ingin membuat atau memberikan efek bayangan pada gambar di postingan blogmu. Oke langsung saja kita simak tutorialnya berikut ini.
+1. Login ke Blogger
+2. Pada halaman Dashboard pilih menu &#34;Tema&#34;
+3. Kemudian kamu tekan tombol &#34;Edit HTML&#34;
+4. Pada fitur &#34;Edit HTML&#34;, kamu cari kode .post-body img
+5. Kemudian kamu tambahkan kode di bawah ini ke dalam elemen kode.post-body img</description>
+    </item>
+    
+  </channel>
+</rss>
