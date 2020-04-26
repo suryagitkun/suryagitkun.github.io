@@ -6,10 +6,19 @@
     <description>Recent content in teknologi on Suryablog - Life Journal as a Noob People</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Apr 2019 14:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 07:34:46 +0700</lastBuildDate>
     
 	<atom:link href="https://suryadhi.web.id/tags/teknologi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NgeShare - Mengatasi Boot Drops Initramfs di Xubuntu 19.04</title>
+      <link>https://suryadhi.web.id/artikel/mengatasi-boot-drops-initramfs/</link>
+      <pubDate>Sun, 26 Apr 2020 07:34:46 +0700</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/mengatasi-boot-drops-initramfs/</guid>
+      <description>Pada suatu ketika, setelah saya selesai mengupdate OS Xubuntu milik saya, dan kemudian merebootnya, muncullah pesan seperti di bawah ini yang membuat saya sesaat tidak bisa menggunakan OS tersebut. BusyBox v1.30.1 (Ubuntu 1:1.30.1-4ubuntu4) built-in shell (ash) Enter &#39;help&#39; for a list of built-in commands. (initramfs) Setelah saya telusuri, ternyata pesan tersebut merupakan notifikasi adanya kegagalan ketika melakukan proses boot setelah diupdate. Hal ini terjadi, biasanya disebabkan adanya data lama yang belum terhapus secara sempurna.</description>
+    </item>
     
     <item>
       <title>NgeShare - Update WPS Office 2019</title>
