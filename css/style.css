@@ -190,7 +190,8 @@ li	{  list-style-position:inside; }
 #post-body, p { line-height:1.7;-khtml-user-select:none;
 -webkit-user-select:none;
 -moz-user-select:none;
--ms-user-select:none;}
+-ms-user-select:none;
+margin-bottom: 15px;}
 
 #post-body table {
   display: block;
@@ -233,7 +234,27 @@ em, i { font-style: italic; }
 	color: #aaa;
 }
 
+.badge-info {
+    color: #fff;
+    background-color: #007bff;
+}
 
+.badge {
+    display: inline-block;
+    padding: 8px 8px 5px !important;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.text-white {
+    color: #fff !important;
+}
 
 .home h1 {
 	font-size: 30px;
@@ -272,7 +293,7 @@ em, i { font-style: italic; }
 .post h2.headline {
 	/*font: italic 22px/1.3em Georgia,serif;*/
 	font: normal 13px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
-	margin: -5px 0 40px 0;
+	margin: -50px 0 20px 0;
 	color: #b2b9be;
 	  font-size: 12px;
 	  text-transform: uppercase;
@@ -839,13 +860,18 @@ a.text-dark:focus, a.text-dark:hover {
         border-right-color: transparent;
         border-bottom-color: transparent;
         border-left-color: transparent;
-    padding: .200rem !important .75rem;
+    padding: .250rem .75rem;
     font-size: 0.8rem;
     line-height: 1.5;
     border-radius: .25rem;
         border-top-left-radius: 0.25rem;
         border-bottom-left-radius: 0.25rem;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.input-group-append {
+    margin-left: -1px;
+    height: 35px !important;
 }
 
 .button li a.demo {
