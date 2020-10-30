@@ -6,10 +6,20 @@
     <description>Recent content in Artikels on Suryablog - Life Journal as a Noob People</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2020 18:59:35 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 09:28:35 +0700</lastBuildDate>
     
 	<atom:link href="https://suryadhi.web.id/artikel/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NgeShare - Cara Mengaktifkan Wifi Driver Ubuntu 20.10 Groovy Gorilla</title>
+      <link>https://suryadhi.web.id/artikel/ubuntu-wifi-driver/</link>
+      <pubDate>Fri, 30 Oct 2020 09:28:35 +0700</pubDate>
+      
+      <guid>https://suryadhi.web.id/artikel/ubuntu-wifi-driver/</guid>
+      <description>Dua hari yang lalu, saya baru saja menginstall Ubuntu 20.10 Groovy Gorilla. Yaps, versi terbaru dari Ubuntu ini dirilis hanya berselang sekitar 6 bulanan dari versi LTS-nya, yaitu Ubuntu 20.04 LTS Focal Fossa.
+ Alih-alih penasaran, saya pun mencoba menginstall, ya karena juga ingin melihat perbedaan dan persamaannya sih. Kalau masalah perbedaan sudah jelas sekali, mengingat kedua versi ini yang satunya memiliki label LTS dan yang satunya Non-LTS, yang artinya kalau LTS itu masa dukungannya lebih lama seperti namanya Long Term Support selama 5 tahun, sedangkan yang Non-LTS hanya didukung selama 9 bulan saja.</description>
+    </item>
     
     <item>
       <title>NgeShare - Tips Agar Blog Disetujui Google Adsense</title>
