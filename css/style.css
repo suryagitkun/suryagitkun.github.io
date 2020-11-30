@@ -76,7 +76,7 @@ h2 {
 }
 
 .profile #header {
-	padding-bottom: 40px;
+	padding-bottom: 80px;
 	text-align: center;
 	position: relative;
 }
@@ -236,7 +236,7 @@ em, i { font-style: italic; }
 
 .badge-info {
     color: #fff;
-    background-color: #007bff;
+    background-color: #007bff !important;
 }
 
 .badge {
