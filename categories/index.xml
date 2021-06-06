@@ -5,10 +5,6 @@
     <link>https://suryadhi.web.id/categories/</link>
     <description>Recent content in Categories on Suryablog - Sekadar Tempat Mencatat di Waktu Luang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://suryadhi.web.id/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://suryadhi.web.id/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -6,10 +6,24 @@
     <description>Recent content in Tags on Suryablog - Sekadar Tempat Mencatat di Waktu Luang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jan 2021 21:17:57 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 20:56:43 +0700</lastBuildDate><atom:link href="https://suryadhi.web.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tutorial</title>
+      <link>https://suryadhi.web.id/tags/tutorial/</link>
+      <pubDate>Sun, 06 Jun 2021 20:56:43 +0700</pubDate>
+      
+      <guid>https://suryadhi.web.id/tags/tutorial/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://suryadhi.web.id/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>ubuntu</title>
+      <link>https://suryadhi.web.id/tags/ubuntu/</link>
+      <pubDate>Sun, 06 Jun 2021 20:56:43 +0700</pubDate>
+      
+      <guid>https://suryadhi.web.id/tags/ubuntu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ocehanku</title>
@@ -17,15 +31,6 @@
       <pubDate>Sat, 30 Jan 2021 21:17:57 +0700</pubDate>
       
       <guid>https://suryadhi.web.id/tags/ocehanku/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tutorial</title>
-      <link>https://suryadhi.web.id/tags/tutorial/</link>
-      <pubDate>Fri, 30 Oct 2020 09:28:35 +0700</pubDate>
-      
-      <guid>https://suryadhi.web.id/tags/tutorial/</guid>
       <description></description>
     </item>
     
